@@ -1,0 +1,2 @@
+FileFetchSuccessIdentifier
+Hello, Guten tag, hello.jpg
