@@ -2,6 +2,7 @@ import React from 'react'
 import './CardPad.css'
 import WordCard from './WordCard'
 import YouTubeCard from './YouTubeCard'
+import WordCard2 from './WordCard2'
 
 export default function CardPad({
   cards,
@@ -16,7 +17,10 @@ export default function CardPad({
         if(card.isYouTube) {
           html = 
           <YouTubeCard card={card} openYouTubeWindow={openYouTubeWindow} />
-        } else {
+        } else if(card.isCard2) {
+          html = <WordCard2 card={card}/>
+        }
+        else {
           html = <WordCard card={card} />
         }
         return (

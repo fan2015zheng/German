@@ -1,10 +1,72 @@
 FileFetchSuccessIdentifier
-#word, the sandwich, das belegte Brot, sandwich.png
-#word, the egg, das Ei, egg.png
-#word, the apple, der Apfel, apple.png
-#word, the bread, das Brot, bread.png
-#word, the coffee, der Kaffee, coffee.png
-#word, the milk, die Milch, milk.png
+#word, the sandwich, Das belegte Brot, sandwich.png
+#word, the egg, Das Ei, egg.png
+#word, the apple, Der Apfel, apple.png
+#word, the bread, Das Brot, bread.png
+#word, the coffee, Der Kaffee, coffee.png
+#word, the milk, Die Milch, milk.png
 #word, a woman and a girl, eine Frau und ein Mädchen, aWomanAGirl.png
 #word, a boy and a man, ein Junge und ein Mann, aBoyAMan.png
 #word, a sandwich and milk, ein belegtes Brot und Milch, aSandwichMilk.png
+#word, bread and water, Brot und Wasser, breadWater.png
+#word, a woman and a man, eine Frau und ein Mann, aWomanAMan.png
+#word, rice and an apple, Reis und ein Apfel, riceAnApple.png
+#youtube, ein eine, 6Of-BqbiNLM
+#word, ,Der Junge und Der Mann trinken Wasser, boyManDrinkWater.png
+#word, ,Der Mann und Die Frau essen Reis, manWomanEatRice.png
+#word, ,Das Mädchen isst Brot, girlEatBread.png
+#word, ,Der Mann isst ein Ei, manEatAnEgg.png
+#word, ,Die Frau trinkt Kaffee, womanDrinkCoffee.png
+#word, ,Der Junge trinkt Milch, boyDrinkMilk.png
+#word, ,Er isst Reis, heEatRice.png
+#word, ,Sie essen Eier, theyEatEggs.png
+#word, ,Sie essen belegte Brote, theyEatSandwiches.png
+#word, ,Sie isst einen Apfel, sheEatAnApple.png
+#youtube, Accusative Case,fd_5Wjsf9xo
+#word, ,der Hund, dog.png
+#word, ,der Katze, cat.png
+#word, ,das Pferd, horse.png
+#word, ,das Auto, car.png
+#word, ,die Zeitung, newspaper.png
+#word, ,das Fahrrad, bike.png
+#word, ,Der Junge läuft, boyWalk.png
+#word, ,Das Mädchen läuft, girlWalk.png
+#word, ,Die Frau fährt Auto, womanDriveCar.png
+#word, ,Der Mann fährt Auto, manDriveCar.png
+#word, ,Er fährt Auto, heDriveCar.png
+#word, ,Sie lesen Zeitung, theyReadNewspaper.png
+#word, ,Sie essen Äpfel,theyEatApples.png
+#word, ,Sie liest ein Buch, sheReadABook.png
+#word, ,Sie haben eine Zeitung, theyHaveANewspaper.png
+#word, ,Er hat eine Katze, heHasACat.png
+#word, ,Sie hat einen Hund, sheHasADog.png
+#word, ,Sie haben einen Pferd, girlsTheyHaveAHorse.png
+#word, ,Sie hat belegete Brote, sheHasSandwiches.png
+#word, ,Er hat ein Auto, heHasACar.png
+#word, ,Er hat Bücher, heHasBooks.png
+#word, ,Sie hat einen Fisch, sheHasAFish.png
+#word, ,Sie haben Stifte, theyHavePens.png
+#word, ,Sie schlafen, theySleep.png
+#word, ,Sie schläft, sheSleep.png
+#word, ,Er schläft, heSleep.png
+#word, ,Der Hund frisst, dogEat.png
+#word, ,Das Pferd frisst, horseEat.png
+#word, ,Der Fisch schwimmt, fishSwim.png
+#word, ,Die Katze schläft, catSleep.png
+#word, ,Das Pferd rennt, horseRun.png
+#word, ,Sie laufen, theyWalk.png
+#word, ,Die Erwachsenen essen, adultsEat.png
+#word, ,Die Kinder trinken, childrenDrink.png
+#word, ,Die Erwachsenen rennen, adultsRun.png
+#word, ,Die Kinder schwimmen, childrenSwim.png
+#word, ,Die Erwachsenen lesen, adultsRead.png
+#word, ,Die Kinder rennen, childrenRun.png
+#word, ,Der Erwachsene liest, adultRead.png
+#word, ,Das Kind rennt, childRun.png
+#word, ,Das Mädchen fährt nicht, girlNotDrive.png
+#word, ,Der Junge fährt nicht, boyNotDrive.png
+#word, ,Er schläft nicht, heNotSleep.png
+#word, ,Sie schwimmen nicht, theyNotSwim.png
+#youtube, nicht kein,pJYb4L7S6vw
+#word, ,Der Junge hat einen Stift, boyHasAPen.png
+#word, ,Das Mädchen hat keinen Stift, girlHasNoPen.png

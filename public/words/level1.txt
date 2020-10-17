@@ -33,6 +33,7 @@ FileFetchSuccessIdentifier
 #word, The men read, Die Männer lesen, menRead.png
 #word, The girls read, Die Mädchen lesen, girlsRead.png
 #word, The women drink, Die Frauen trinken, womenDrink.png
+#youtube, German Plural,BgZ--QmPAIw
 #word, She drinks, Sie trinkt, sheDrink.png
 #word, He eats, Er isst, heEat.png
 #word, He runs, Er rennt, heRun.png

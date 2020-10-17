@@ -1,0 +1,26 @@
+._wordCard2 {
+  margin: 0px 5px 5px 0px;
+}
+
+._wordCard2FrontWrap, ._wordCard2BackWrap {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: space-around
+}
+
+._wordCard2FrontImg {
+  height: 100%;
+  width: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+._wordCard2BackGerman {
+  height: 100%;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

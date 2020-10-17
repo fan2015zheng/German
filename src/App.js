@@ -45,6 +45,7 @@ function App() {
           const part1 = (row[1]??"").trim()
           const part2 = (row[2]??"").trim()
           const part3 = (row[3]??"").trim()
+          const part4 = (row[4]??"").trim()
           card.level = level
           switch(part0) {
             case "#word":
@@ -56,6 +57,13 @@ function App() {
               card.isYouTube = true
               card.youTubeSubject = part1
               card.youTubeId = part2
+              break
+            case "#word2":
+              card.isCard2 = true
+              card.german1 = part1
+              card.german2 = part2
+              card.img1 = part3
+              card.img2 = part4
               break
             default:
           }
