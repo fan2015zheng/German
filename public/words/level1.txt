@@ -1,5 +1,11 @@
 FileFetchSuccessIdentifier
-#word, hello, Guten Tag, hello.jpg
+#word, helloGuten Tag, hello.jpg
 #word, the woman, die Frau, woman.jpg
 #word, the man, der Mann, man.jpg
+#word, the girl, das Mädchen, girl.jpg
+#word, the boy, der Junge, boy.jpg
 #youtube,die der das,9uFcMrgPrz4
+#word, The girl eats, Das Mädchen isst,
+#word, The girl drinks, Das Mädchen trinkt,
+#word, The boy eats, Der Junge isst,
+#word, The boy drinks, Der Junge trinkt,
