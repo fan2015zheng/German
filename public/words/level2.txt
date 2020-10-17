@@ -1,0 +1,10 @@
+FileFetchSuccessIdentifier
+#word, the sandwich, das belegte Brot, sandwich.png
+#word, the egg, das Ei, egg.png
+#word, the apple, der Apfel, apple.png
+#word, the bread, das Brot, bread.png
+#word, the coffee, der Kaffee, coffee.png
+#word, the milk, die Milch, milk.png
+#word, a woman and a girl, eine Frau und ein Mädchen, aWomanAGirl.png
+#word, a boy and a man, ein Junge und ein Mann, aBoyAMan.png
+#word, a sandwich and milk, ein belegtes Brot und Milch, aSandwichMilk.png
