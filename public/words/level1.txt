@@ -1,11 +1,58 @@
 FileFetchSuccessIdentifier
-#word, helloGuten Tag, hello.jpg
+#word, hello,Guten Tag, hello.jpg
 #word, the woman, die Frau, woman.jpg
 #word, the man, der Mann, man.jpg
 #word, the girl, das Mädchen, girl.jpg
 #word, the boy, der Junge, boy.jpg
 #youtube,die der das,9uFcMrgPrz4
-#word, The girl eats, Das Mädchen isst,
-#word, The girl drinks, Das Mädchen trinkt,
-#word, The boy eats, Der Junge isst,
-#word, The boy drinks, Der Junge trinkt,
+#word, The girl eats, Das Mädchen isst, girlEat.jpg
+#word, The girl drinks, Das Mädchen trinkt, girlDrink.jpg
+#word, The boy eats, Der Junge isst, boyEat.jpg
+#word, The boy drinks, Der Junge trinkt, boyDrink.jpg
+#word, The man eats, Der Mann isst, manEat.png
+#word, The man drink, Der Mann trinkt, manDrink.png
+#word, The woman eats, Die Frau isst, womanEat.png
+#word, The woman drinks, Die Frau trinkt, womanDrink.png
+#word, The man runs, Der Mann rennt, manRun.png
+#word, The woman runs, Die Frau rennt, womanRun.png
+#word, The boy runs, Der Junge rennt, boyRun.png
+#word, The girl runs, Das Mädchen rennt, girlRun.png
+#word, The man reads, Der Mann liest, manRead.png
+#word, The woman reads, Die Frau liest, womanRead.png
+#word, The boy reads, Der Junge liest, boyRead.png
+#word, The girl reads, Das Mädchen liest, girlRead.png
+#word, The girls trink, Die Mädchen trinken, girlsDrink.png
+#word, The boys eat, Die Jungen essen, boysEat.png
+#word, The girls run, Die Mädchen rennen, girlsRun.png
+#word, The men drink, Die Männer trinken, menDrink.png
+#word, The women eat, Die Frauen essen, womenEat.png
+#word, The boys read, Die Jungen lesen, boysRead.png
+#word, The men run, Die Männer rennen, menRun.png
+#word, The women read, Die Frauen lesen, womenRead.png
+#word, The women run, Die Frauen rennen, womenRun.png
+#word, The men read, Die Männer lesen, menRead.png
+#word, The girls read, Die Mädchen lesen, girlsRead.png
+#word, The women drink, Die Frauen trinken, womenDrink.png
+#word, She drinks, Sie trinkt, sheDrink.png
+#word, He eats, Er isst, heEat.png
+#word, He runs, Er rennt, heRun.png
+#word, She reads, Sie liest, sheRead.png
+#word, They read, Sie lesen, menTheyRead.png
+#word, They eat, Sie essen, womenTheyEat.png
+#word, She runs, Sie rennt, sheRun.png
+#word, They run, Sie rennen, girlsTheyRun.png
+#word, They cook, Sie kochen, menTheyCook.png
+#word, She books, Sie kocht, sheCook.png
+#word, He cooks, Er kocht, heCook.png
+#word, The boys swim, Der Jungen schwimmen, boysSwim.png
+#word, The women swim, Die Frauen schwimmen, womenSwim.png
+#word, The girl swims, Das Mädchen schwimmt, girlSwim.png
+#word, The man swims, Der Mann schwimmt, manSwim.png
+#word, The men eat,  Der Männer essen, menEat.png
+#word, The woman swims, Die Frau  schwimmt, womanSwim.png
+#word, She writes, Sie schreibt, sheWrite.png
+#word, He writes, Er schreibt, heWrite.png
+#word, They write, Sie schreiben, theyWrite.png
+#word, The girl writes, Das Mädchen schreibt, girlWrite.png
+#word, The girls write, Sie Mädchen schreiben, girlsWrite.png
+#word, Bye, Auf Wiedersehen, bye.png
