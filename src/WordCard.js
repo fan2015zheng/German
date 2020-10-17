@@ -1,29 +1,30 @@
 import React from 'react'
 import './WordCard.css'
+import FlipCard from './FlipCard'
 
-export default function WordCard({word}){
+export default function WordCard({card}){
 
-  let frontStyle = null
-  let frontContent = null
-  if(word.level > 0 && word.img){
-    frontStyle={
-      backgroundImage: `url(./img/level${word.level}/${word.img})`
+  let frontWrapStyle = null
+  let frontText = null
+  if(card.level > 0 && card.img){
+    frontWrapStyle ={
+      backgroundImage: `url(./img/level${card.level}/${card.img})`
     }
   } else {
-    frontContent = <div className="_wordCardFrontContent">{word.english}</div>
+    frontText = card.english
   }
-
   return(<>
-   <div className="_wordCard">
-     <div className="_wordCardInner">
-       <div className="_wordCardFront" style={frontStyle}>
-         {frontContent}
-       </div>
-       <div className="_wordCardBack">
-        {word.german}
-       </div>
-     </div>
-      
-   </div>
+    <FlipCard width={100} height={100} className="_wordCard"
+      frontHtml={
+        <div className="_wordCardFrontWrap" style={frontWrapStyle}>
+          {frontText}
+        </div>
+      } 
+      backHtml={
+        <div className="_wordCardBackWrap">
+          {card.german}
+        </div>
+      }
+    />
   </>)
 }

@@ -1,7 +1,6 @@
-._wordPad {
+._cardPad {
   display: flex;
   justify-content: center;
   flex-flow: row wrap;
   overflow-y: auto;
-  max-height: calc(100vh - 30px);
 }

@@ -1,7 +1,4 @@
-._wordCard {
-  margin: 0px 5px 5px 0px;
-}
-._wordCardFrontWrap, ._wordCardBackWrap {
+._youTubeCardFrontWrap, ._youTubeCardBackWrap {
   height: 100%;
   width: 100%;
 
@@ -9,8 +6,8 @@
   justify-content: center;
   align-items: center;
 }
-
-._wordCardFrontWrap {
+._youTubeCardFrontWrap {
+  background-image: url("./img/youTubeIcon.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
