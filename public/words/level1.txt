@@ -1,5 +1,5 @@
 FileFetchSuccessIdentifier
 #word, hello, Guten Tag, hello.jpg
-#word, the woman, die Frau xx xxxx xxxx x xxx, woman.jpg
+#word, the woman, die Frau, woman.jpg
 #word, the man, der Mann, man.jpg
 #youtube,die der das,9uFcMrgPrz4
