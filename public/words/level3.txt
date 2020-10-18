@@ -1,0 +1,83 @@
+FileFetchSuccessIdentifier
+#word, ,rot, red.png
+#word, ,weiß, white.png
+#word, ,schwarz, black.png
+#word, ,blau, blue.png
+#word, ,grün, green.png
+#word, ,gelb, yellow.png
+#word, ,Der Reis ist weiß, riceIsWhite.png
+#word, ,Der Apfel ist grün, appleIsGreen.png
+#word, ,Das Fahrrad ist grün, bikeIsGreen.png
+#word, ,Das Auto ist grün, carIsGreen.png
+#word, ,Das Auto ist weiß, carIsWhite.png
+#word, ,Die Milch ist weiß, milkIsWhite.png
+#word, ,Die Stifte sind grün, pensAreGreen.png
+#word, ,Die Fahrräder sind rot, bikesAreRed.png
+#word, ,Die Eier sind rot, eggsAreRed.png
+#word, ,Die Autos sind weiß, carsAreWhite.png
+#word, ,Die Äpfel sind grün, applesAreGreen.png
+#word, ,Die Fahrrad sind weiß, bikesAreWhite.png
+#word2, Das Ei ist blau, Die Eier sind blau, eggIsBlue.png, eggsAreBlue.png
+#word2, Das Fahrrad ist gelb, Die Fahrräder sind gelb, bikeIsYellow.png, bikesAreYellow.png
+#word2, Das Auto ist schwarz, Die Autos sind schwarz, carIsBlack.png, carsAreBlack.png
+#word2, Der Ball ist rot, Die Bälle sind rot, ballIsRed.png, ballsAreRed.png
+#word, ,Die Katzen sind schwarz, catsAreBlack.png
+#word, ,Die Fische sind rot, fishAreRed.png
+#youtube, Er Sie Es,vhzkABo7OC8
+#word, ,Sie ist weiß, catSheIsWhite.png
+#word, ,Sie ist blau, doorSheIsBlue.png
+#word, ,Es ist schwarz, carItIsBlack.png
+#word, ,Sie ist grün, snakeSheIsGreen.png
+#word, ,Sie ist rot, roseSheIsRed.png
+#word, ,Es ist rot, eggItIsRed.png
+#word, ,Sie sind weiß, bearTheyAreWhite.png
+#word, ,Er ist gelb, ballHeIsYellow.png
+#word, ,Sie sind grün, appleTheyAreGreen.png
+#word, ,Er ist blau und grün, globeHeIsBlueGreen.png
+#word, ,Sie sind rot, ballTheyAreRed.png
+#word, ,Er ist schwarz und weiß, pandaHeIsBlackWhite.png
+#word, ,Der Mond ist weiß, moonIsWhite.png
+#word, ,Das Gras ist grün, grassIsGreen.png
+#word, ,Die Sonne ist gelb, sunIsYellow.png
+#word, ,Die Blume ist rot, flowerIsRed.png
+#word, ,Der Himmel ist blau, skyIsBlue.png
+#word, ,Die Blume ist klein, flowerIsSmall.png
+#word, ,Die Blumen sind klein, flowersAreSmall.png
+#word, ,Das Ei ist klein, eggIsSmall.png
+#word, ,Die Eier sind klein, eggsAreSmall.png
+#word, ,Der Fisch ist groß, fishIsBig.png
+#word, ,Die Blumen sind groß, flowersAreBig.png
+#word, ,Das Ei ist groß, eggIsBig.png
+#word, ,Die Bücher sind groß, booksAreBig.png
+#word, ,Der Hund ist groß, dogIsBig.png
+#word, ,Der Hund ist klein, dogIsSmall.png
+#word, ,Sie ist Ärztin, sheIsDoctor.png
+#word, ,Sie sind Polizisten, menTheyArePoliceOfficers.png
+#word, ,Er ist Lehrer, heIsTeacher.png
+#word, ,Sie ist eine Schülerin, sheIsAStudent.png
+#word, ,Sie sind Schüler, theyAreStudents.png
+#word, ,Er ist ein Schüler, heIsAStudent.png
+#word, ,Er ist Polizist, heIsPoliceOfficer.png
+#word, ,Sie ist Lehrerin, sheIsTeacher.png
+#word, ,Er ist Arzt, heIsDoctor.png
+#word, ,Ich bin ein Junge, iAmABoy.png
+#word, ,Ich bin ein Mann, iAmAMan.png
+#word, ,Ich bin eine Frau, iAmAWoman.png
+#word, ,Ich bin ein Mädchen, iAmAGirl.png
+#word, ,der rote Apfel, redApple.png
+#word, ,Ich habe einen roten Apfel, iHaveARedApple.png
+#word, ,die weiße Milch, whiteMilk.png
+#word, ,Ich habe weiße Milch, iHaveWhiteMilk.png
+#word, ,das gelbe Ei, yellowEgg.png
+#word, ,Ich habe ein gelbes Ei, iHaveAYellowEgg.png
+#youtube, adjective endings ,icbwSsTmPGE
+
+
+
+
+
+
+
+
+
+
