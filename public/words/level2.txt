@@ -68,5 +68,4 @@ FileFetchSuccessIdentifier
 #word, ,Er schläft nicht, heNotSleep.png
 #word, ,Sie schwimmen nicht, theyNotSwim.png
 #youtube, nicht kein,pJYb4L7S6vw
-#word, ,Der Junge hat einen Stift, boyHasAPen.png
-#word, ,Das Mädchen hat keinen Stift, girlHasNoPen.png
+#word2, Der Junge hat einen Stift, Das Mädchen hat keinen Stift, boyHasAPen.png, girlHasNoPen.png
