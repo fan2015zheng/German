@@ -21,8 +21,8 @@ export default function WordCard2({card}){
       } 
       backHtml={
         <div className="_wordCard2BackWrap">
-          <div className="_wordCard2BackGerman">{card.german2}</div>
           <div className="_wordCard2BackGerman">{card.german1}</div>
+          <div className="_wordCard2BackGerman">{card.german2}</div>
         </div>
       }
     />

@@ -69,7 +69,7 @@ FileFetchSuccessIdentifier
 #word, ,Sie schwimmen nicht, theyNotSwim.png
 #youtube, nicht kein,pJYb4L7S6vw
 #word2, Der Junge hat einen Stift, Das Mädchen hat keinen Stift, boyHasAPen.png, girlHasNoPen.png
-#word2, Die Frauen haben Reis, Die Männer haben keinen Reis, womenHaveNoRice.png, menHaveNoRice.png
+#word2, Die Frauen haben Reis, Die Männer haben keinen Reis, womenHaveRice.png, menHaveNoRice.png
 #word2, Der Junge hat Milch, Der Junge hat keine Milch, boyHasMilk.png, boyHasNoMilk.png
 #word2, Das Mädchen hat ein Fahrrad, Das Mädchen hat kein Fahrrad, girlHasABike.png, girlHasNoBike.png
 #word2, Der Jungen haben wasser, Der Jungen haben kein Wasser, boysHaveWater.png, boysHaveNoWater.png
@@ -84,9 +84,9 @@ FileFetchSuccessIdentifier
 #word2, Was ist das?, Das ist Reis, riceWhatIsIt.png, itIsRice.png
 #word2, Schläft er?, Ja. Er schläft, heSleepQ.png, yesHeSleep.png
 #word2, Schläft sie?, Nein. Sie schläft nicht, sheSleepQ.png, noSheNotSleep.png
-#word2, Schwimmt der Hung?, Ja., dogSwimQ,png, dogSwimYes.png
+#word2, Schwimmt der Hund?, Ja., dogSwimQ.png, dogSwimYes.png
 #word2, Schwimmt das Pferd?, Nein., horseSwimQ.png, horseSwimNo.png
-#word2, Isst er einen Apfel?, Nein., heEatAppleQ2.png, heEatAppleNo.png
-#word2, Isst er einen Apfel?, Ja., heEatAppleQ1.png, heEatAppleYes.png
-#word2, Liest sie Zeitung?, Nein., sheReadNewspaperQ.png, sheReadBookNo.png
-#word2, Liest sie ein Buch?, Ja., sheReadBookQ.png, sheReadBookYes.png
+#word2, Isst er einen Apfel?, Nein., heEatAppleQ1.png, heEatAppleNo.png
+#word2, Isst er einen Apfel?, Ja., heEatAppleQ2.png, heEatAppleYes.png
+#word2, Liest sie Zeitung?, Nein., sheReadNewspaperQ.png, sheReadNewspaperNo.png
+#word2, Liest sie ein Buch?, Ja., sheReadABookQ.png, sheReadABookYes.png
