@@ -71,8 +71,44 @@ FileFetchSuccessIdentifier
 #word, ,das gelbe Ei, yellowEgg.png
 #word, ,Ich habe ein gelbes Ei, iHaveAYellowEgg.png
 #youtube, adjective endings ,icbwSsTmPGE
-
-
+#word, ,Ich habe ein gelbes Buch, iHaveAYellowBook.png
+#word, ,Ich habe ein grünes Buch, iHaveAGreenBook.png
+#word, ,Ich habe ein rotes Buch, iHaveARedBook.png
+#youtube,sie or Sie,siLfPrsfRJw
+#word, ,Sie haben ein grünes Buch, youHaveAGreenBook.png
+#word, ,Sie haben ein rotes Buch, youHaveARedBook.png
+#word, ,Sie haben ein gelbes Buch, youHaveAYellowBook.png
+#word2,Sind Sie Arzt?, Ja. Ich bin Arzt, areYouDoctor1.png, yesIAmDoctor.png
+#word2,Sind Sie Arzt?, Nein. Ich bin kein Arzt, areYouDoctor2.png, noIAmNotDoctor.png
+#word2,Was trinken Sie?, Ich trinke Wasser, whatYouDrink.png, iDrinkWater.png
+#word2,Was essen Sie?, Ich esse Reis, whatYouEat.png, iEatRice.png
+#word2,Was haben Sie?, Ich habe ein belegtes Brot, whatYouHave1.png, iHaveASandwich.png
+#word2,Was haben Sie?, Ich habe einen Stift, whatYouHave2.png, iHaveAPen.png
+#word, ,Ich bin Lehrerin, iAmTeacher.png
+#word, ,Wir sind Lehrer, weAreTeachers.png
+#word, ,Ich bin ein Mädchen, iAmAGirl.png
+#word, ,Wir sind Mädchen, weAreGirls.png
+#word, ,Wir sind Jungen, weAreBoys.png
+#word, ,Wir sind Polizisten, weArePoliceOfficers.png
+#word, ,Wir sind Ärzte, weAreDoctors.png
+#word, ,Ich habe ein rotes Fahrrad, iHaveARedBike.png
+#word, ,Wir haben grüne Fahrräder, weHaveGreenBikes.png
+#word, ,Ich habe rote Äpfel, iHaveRedApples.png
+#word, ,Wir haben grüne Äpfel, weHaveGreenApples.png
+#word, ,Ich habe rote Blumen, iHaveRedFlowers.png
+#word, ,Sie haben rote Blumen, youHaveRedFlowers.png
+#word, ,Er hat rote Blumen, heHasRedFlowers.png
+#word, ,Sie hat rote Blumen, sheHasRedFlowers.png
+#word, ,Wir haben rote Blumen, weHaveRedFlowers.png
+#word, ,Sie haben rote Blumen, theyHaveRedFlowers.png
+#word2, Was macht der Mann?, Der Mann kockt, whatManDo.png, manCook.png
+#word2, Was macht die Frau?, Die Frau liest, whatWomanDo.png, womanRead2.png
+#word2, Was macht der Junge?, Der Junge rennt, whatBoyDo.png, boyRun2.png
+#word2, Was macht der Arzt?, Der Arzt schreibt, whatDoctorDo.png, doctorWrite.png
+#word2, Was macht der Polizist?, Der polizist fährt, whatPoliceOfficerDo.png, policeOfficerDrive.png
+#word2, Was macht das Mädchen?, Das Mädchen läuft, whatGirlDo.png, girlWalk2.png
+#word2, Was machen Sie?, Ich schreibe, whatYouDo1.png, iWrite.png
+#word2, Was machen Sie?, Ich fahre Auto, whatYouDo2.png, iDriveCar.png
 
 
 
