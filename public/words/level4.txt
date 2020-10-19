@@ -1,0 +1,62 @@
+FileFetchSuccessIdentifier
+#word, ,ein Ei,1Egg.png
+#word, ,zwei Hunde,2Dogs.png
+#word, ,zwei Stifte,2Pens.png
+#word, ,drei Fahrräder,3Bikes.png
+#word, ,drei Katzen,3Cats.png
+#word, ,vier Jungen,4Boys.png
+#word, ,vier Männer,4Men.png
+#word, ,fünf Bücher,5Books.png
+#word, ,fünf Zeitungen,5Newspapers.png
+#word, ,sechs Äpfel,6Apples.png
+#word, ,sechs Mädchen,6Girls.png
+#word, ,eins,1.png
+#word, ,zwei,2.png
+#word, ,drei,3.png
+#word, ,vier,4.png
+#word, ,fünf,5.png
+#word, ,sechs,6.png
+#word, ,sechs eins drei fünf zwei,61352.png
+#word, ,eins zwei drei,123.png
+#word, ,zwei vier sechs,246.png
+#word, ,eins zwei drei vier fünf,12345.png
+#word, ,Hier ist ein Fisch, hereIs1Fish.png
+#word, ,Hier ist ein Kind, hereIs1Child.png
+#word, ,Hier ist eine Frau, hereIs1Woman.png
+#word, ,Hier ist ein Ei, hereIs1Egg.png
+#word, ,Hier ist ein Buch, hereIs1Book.png
+#word, ,Hier ist ein Handy, hereIs1CellPhone.png
+#word, ,Hier sind vier Frauen, hereAre4Women.png
+#word, ,Hier sind drei Bücher, hereAre3Books.png
+#word, ,Hier sind fünf Fische, hereAre5Fish.png
+#word, ,Hier sind sechs Eier, hereAre6Eggs.png
+#word, ,Hier sind zwei Kinder, hereAre2Children.png
+#word, ,Hier sind vier Schlüssel, hereAre4Keys.png
+#word, ,Hier ist ein Bett, hereIs1Bed.png
+#word, ,Hier sind drei Bälle, hereAre3Balls.png
+#word, ,Hier sind zwei Handys, hereAre2CellPhones.png
+#word, ,Hier ist eine Tasse, hereIs1Cup.png
+#word, ,Hier sind vier Stühle, hereAre4Chairs.png
+#word, ,Hier sind zwei Tische, hereAre2Tables.png
+#word, ,Hier sind drei Telefone, hereAre3Telephones.png
+#word, ,Hier ist ein Ball, hereIs1Ball.png
+#word, ,Hier ist ein Tisch, hereIs1Table.png
+#word2,Wie viele Fische sind hier?,Hier sind drei Fische,howManyFish.png,hereAre3Fish.png
+#word2,Wie viele Schlüssel sind hier?, Hier sind vier Schlüssel, howManyKeys.png, hereAre4Keys.png
+#word2,Wie viele Polizisten sind hier?, Hier sind zwei Polizisten, howManyPoliceOfficers.png, hereAre2PoliceOfficers.png
+#word2,Wie viele Äpfel sind hier?, Hier ist ein Apfel, howManyApples.png, hereIs1Apple.png
+#word2,Wie viele Stühle sind hier?, Hier sind sechs Stühle, howManyChairs.png, hereAre6Chairs.png
+#word2,Wie viele Telephone sind hier?, Hier sind fünf Telefone, howManyTelephones.png, hereAre5Telephones.png
+#word2,Wie viele Betten sind hier?, Hier sind zwei Betten, howManyBeds.png, hereAre2Beds.png
+#word, ,Hier sind vier Tassen, hereAre4Cups.png
+#word, ,Hier sind drei Eier, hereAre3Eggs.png
+#word, ,Hier sind fünf Eier, hereAre5Eggs.png
+#word, ,Hier sind sechs Tassen, hereAre6Cups.png
+#word, ,Drei Teller sind weiß, 3PlatesAreWhite.png
+#word, ,Vier Schüsseln sind blau, 4BowlsAreBlue.png
+#word, ,Zwei Äpfel sind grün, 2ApplesAreGreen.png
+#word, ,Eine Blume ist rot, 1FlowerIsRed.png
+#word2, Wie viele Tische sind weiß?, Zwei Tische sind weiß, howManyTablesWhite.png, 2TablesAreWhite.png
+#word2, Wie viele Bälle sind rot?, Ein Ball ist rot, howManyBallsRed.png, 1BallIsRed.png
+#word2, Wie viele Schüsseln sind gelb?, Zwei Schüsseln sind gelb, howManyBowlsYellow.png, 2BowlsAreYellow.png
+#word2, Wie viele Telefone sind schwarz?, Ein Telefon ist schwarz, howManyTelephonesBlack.png, 1TelephoneIsBlack.png
