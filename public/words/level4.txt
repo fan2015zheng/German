@@ -60,3 +60,20 @@ FileFetchSuccessIdentifier
 #word2, Wie viele Bälle sind rot?, Ein Ball ist rot, howManyBallsRed.png, 1BallIsRed.png
 #word2, Wie viele Schüsseln sind gelb?, Zwei Schüsseln sind gelb, howManyBowlsYellow.png, 2BowlsAreYellow.png
 #word2, Wie viele Telefone sind schwarz?, Ein Telefon ist schwarz, howManyTelephonesBlack.png, 1TelephoneIsBlack.png
+#word, ,Schuhe, shoes.png
+#word, ,die Schuhe, shoes.png
+#word, ,das Hemd, shirt.png
+#word, ,ein Hemd, shirt.png
+#word, ,die Hose, pants.png
+#word, ,eine Hose, pants.png
+#word, ,der Mantel, coat.png
+#word, ,ein Mantel, coat.png
+#word, ,das Kleid, dress.png
+#word, ,ein Kleid, dress.png
+#word, ,der Rock, skirt.png
+#word, ,ein Rock, skirt.png
+#word, ,eine rote Bluse, aRedBlouse.png
+#word,
+
+
+

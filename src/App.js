@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useRef, useCallback } from 'react'
+import React, { useEffect, useState } from 'react'
 import './App.css'
 import CardPad from './CardPad'
 import MenuBar from './MenuBar'
@@ -7,23 +7,17 @@ import YouTubeWindow from './YouTubeWindow'
 function App() {
 
   const [level, setLevel] = useState(1)
-  const [refreshCount, setRefreshCount] = useState(0)
-
-  function refresh() {setRefreshCount((refreshCount+1)%1000)}
-  const refresh1 = useCallback(refresh)
-  const cardsRef = useRef([])
+  const [cards, setCards] = useState([])
 
   const [window, setWindow] = useState("")
   const [youTubeId, setYouTubeId] = useState("")
 
   function openYouTubeWindow(youTubeId){
-    refresh()
     setWindow("YouTubeWindow")
     setYouTubeId(youTubeId)
   }
 
   function closeWindow() {
-    refresh()
     setWindow("")
   }
 
@@ -31,7 +25,7 @@ function App() {
     fetch(`./words/level${level}.txt`)
     .then( (data)=> data.text())
     .then( (text) => {
-      cardsRef.current = []
+      const tempCards = []
       const rows = text.split('\n')
       if (rows[0].trim() !== "FileFetchSuccessIdentifier") {
         return
@@ -67,12 +61,12 @@ function App() {
               break
             default:
           }
-          cardsRef.current.push(card)
+          tempCards.push(card)
         }
       }
-      refresh1()
+      setCards(tempCards)
     })
-  },[level,refresh1])
+  },[level])
 
   let windowHtml = null
   if(window === "YouTubeWindow") {
@@ -80,9 +74,9 @@ function App() {
     = <YouTubeWindow youTubeId={youTubeId} 
         close={closeWindow} />
   }
-  
+  console.log("app")
   return (<>
-    <CardPad cards={cardsRef.current}
+    <CardPad cards={cards}
        openYouTubeWindow={openYouTubeWindow}
     />
     <MenuBar level={level} setLevel={setLevel}/>
