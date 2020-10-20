@@ -1,0 +1,65 @@
+FileFetchSuccessIdentifier
+#word, ,ein Mann und ein Hund, aManADog.png
+#word, ,eine Frau und ihr Hund, aWomanHerDog.png
+#word, ,ein Mädchen und ein Pferd, aGirlAHorse.png
+#word, ,ein Polizist und sein Pferd, aPoliceOfficerHisDog.png
+#word, ,eine Frau und ihr Auto ,aWomanHerCar.png
+#word, ,eine Frau und ihre Katze ,aWomanHerCat.png
+#word, ,ein Mann und sein Auto ,aManHisCar.png
+#word, ,ein Mann und seine Katze ,aManHisCat.png
+#word, ,Sie essen ihr belegtes Brot , theyEatTheirSandwich.png
+#word, ,Sie essen ihre belegten Brote , girlsTheyEatTheirSandwiches.png
+#word, ,Sie lesen ihre Zeitung , theyReadTheirNewspaper.png
+#word, ,Sie lesen ihre Zeitungen, menTheyReadTheirNewspapers.png
+#word, ,Sie lesen ihr Buch, girlsTheyReadTheirBook.png
+#word, ,Sie essen ihre Äpfel, theyEatTheirApples.png
+#word, ,Sie lesen ihre Bücher, theyReadTheirBooks.png
+#word, ,Sie liest ihr Buch, sheReadHerBook.png
+#word, ,Er liest sein Buch, heReadHisBook.png
+#word, ,Sie isst ihren Apfel, sheEatHerApple.png
+#word, ,Er isst seinen Apfel, heEatHisApple.png
+#word, ,eine Familie, family.png
+#word, ,ein Mann und sein Sohn, aManHisSon.png
+#word, ,eine Frau und ihre Tochter, aWomanHerDaughter.png
+#word, ,ein Junge und sein Vater, aBoyHisFather.png
+#word, ,ein Mädchen und ihre Mutter, aGirlHisMother.png
+#word, ,die Mutter, mother.png
+#word, ,die Tochter, daughter.png
+#word, ,der Vater, father.png
+#word, ,der Sohn, son.png
+#word, ,zwei Mädchen und ihre Eltern, 2GirlsTheirParents.png
+#word, ,eine Frau und ihr Mann, aWomanHisHusband.png
+#word, ,ein Mädchen und ihre Eltern, aGirlHerParents.png
+#word, ,ein Baby, aBaby.png
+#word, ,eine Frau und ihre Kinder, aWomanHerChildren.png
+#word, ,ein Mann und seine Frau, aManHisWife.png
+#word, ,Eltern und ihre Söhne, parentsTheirSons.png
+#word, ,ein Vater und seine Tochter, aFatherHisDaughter.png
+#word, ,eine Mutter und ihr Baby, aMotherHerBaby.png
+#word, ,ein Vater und seine Kinder, aFatherHisChildren.png
+#word, ,Eltern und ihre Tochter, parentsTheirDaughter.png
+#word, ,Die Mutter und ihre Töchter spielen,motherHerDaughtersPlay.png
+#word, ,Die Frau und ihre Katze spielen, womanHerCatPlay.png
+#word, ,Der Junge und sein Hund spielen, boyHisDogPlay.png
+#word, ,Der Vater und seine Söhne spielen, fatherHisSonsPlay.png
+#word, ,Der Vater liest nicht. Seine Tochter liest, fatherNotReadHisDaughterRead.png
+#word, ,Der Sohn spielt nicht. Sein Vater spielt, sonNotPlayFatherPlay.png
+#word, ,Die Kinder kochen nicht. Ihr Vater kocht,childrenNotCookFatherCook.
+#word, ,Wer trinkt?,whoDrink.png
+#word, ,Wer isst?, whoEat.png
+#word, ,Wer spielt?,whoPlay.png
+#word, ,Wer schläft?,whoSleep.png
+#word, ,Das ist mein Vater, thisIsMyFather.png
+#word, ,Das ist mein Bett, thisIsMyBed.png
+#word, ,Das ist meine Tochter, thisIsMyDaughter.png
+#word, ,Das ist meine Mutter, thisIsMyMother.png
+#word, ,Das ist mein Fahrrad, thisIsMyBike.png
+#word, ,Das ist mein Sohn, thisIsMySon.png
+#word, ,Das ist meine Familie,thisIsMyFamily.png
+#word, ,Das ist mein Bruder,thisIsMyBrother.png
+#word, ,Das ist meine Freundin,thisIsMyGirlFriend.png
+#word, ,Das ist mein Freund,thisIsMyFriend.png
+#word, ,Die Jungen sind keine Brüder. Sie sind Freunde, boysAreNotBrothersTheyAreFriends.png
+#word, ,Die Mädchen sind Schwestern, girlsAreSisters.png
+#word, ,Die Jungen sind Brüder, boysAreBrothers.png
+#word, ,Die Mädchen sind keine Schwestern. Sie sind Freundinnen, girlsAreNotSistersTheyAreFriends.png
