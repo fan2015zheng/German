@@ -109,11 +109,3 @@ FileFetchSuccessIdentifier
 #word2, Was macht das Mädchen?, Das Mädchen läuft, whatGirlDo.png, girlWalk2.png
 #word2, Was machen Sie?, Ich schreibe, whatYouDo1.png, iWrite.png
 #word2, Was machen Sie?, Ich fahre Auto, whatYouDo2.png, iDriveCar.png
-
-
-
-
-
-
-
-
