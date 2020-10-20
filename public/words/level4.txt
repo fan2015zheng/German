@@ -73,7 +73,62 @@ FileFetchSuccessIdentifier
 #word, ,der Rock, skirt.png
 #word, ,ein Rock, skirt.png
 #word, ,eine rote Bluse, aRedBlouse.png
-#word,
+#word, ,ein blaues Hemd, aBlueShirt.png
+#word, ,ein gelbes T-Shirt, aYellowTShirt.png
+#word, ,ein grünes T-Shirt, aGreenTShirt.png
+#word2, Wie viele Tassen haben Sie?, Wir haben vier Tassen, howManyCupsYouHave.png, weHave4Cups.png
+#word2, Wie viele belegete Brote haben Sie?, Wir haben fünf belegete Brote, howManySandwichesYouHave.png, weHave5Sandwiches.png
+#word2, Wie viele Schüsseln haben Sie?, Ich habe drei Schüsseln, howManyBowlsYouHave.png, iHave3Bowls.png
+#word2, Wie viele Teller haben Sie?, Ich habe zwei Teller, howManyPlatesYouHave.png, iHave2Plates.png
+#word, ,Ich habe gelbe Blumen, iHaveYellowFlowers.png
+#word, ,Sie haben rote Blumen, youHaveRedFlowers.png
+#word, ,Wir haben weiße Blumen, weHaveWhiteFlowers.png
+#word, ,Sie haben blaue Blumen, yousHaveBlueFlowers.png
+#word, ,Die Frau trägt Schuhe, womanWearShoes.png
+#word, ,Das Mädchen trägt ein T-Shirt, girlWearATShirt.png
+#word, ,Der Mann trägt keine Schuhe, manWearNoShoes.png
+#word, ,Der Junge trägt kein T-Shirt, boyWearNoTShirt.png
+#word, ,Der Junge trägt eine Hose, boyWearPants.png
+#word, ,Der Männer tragen Hüte, menWearHats.png
+#word, ,Das Mädchen trägt keine Hose. Sie trägt einen Rock, girlWearNoPants.png
+#word, ,Drei Frauen tragen Hosen. Eine Frau trägt ein Kleid, 3WomenWearPants.png
+#word, ,Die Frau trägt ein Kleid, womanWearADress.png
+#word, ,Die Frau trägt einen Rock, womanWearASkirt.png
+#word, ,Die Frau trägt einen Hut, womanWearAHat.png
+#word, ,Die Frau trägt eine Hose, womanWearPants.png
+#word, ,Er kauft einen Hut, heBuyAHat.png
+#word, ,Er kauft drei T-Shirts, heBuy3TShirts.png
+#word, ,Sie kauft vier T-Shirts, sheBuy4TShirts.png
+#word, ,Sie kauft zwei Hüte, sheBuy2Hats.png
+#word, ,Der Mann kauft einen Mantel, manBuyACoat.png
+#word, ,Der Mann trägt einen Hut, manWearAHat.png
+#word, ,Der Mann trägt einen Mantel, manWearACoat.png
+#word, ,Ich kaufe einen Rock, iBuyASkirt.png
+#word, ,Ich trage einen Rock, iWearASkirt.png
+#word, ,Ich kaufe eine Hose, iBuyAPants.png
+#word, ,Ich trage eine Hose, iWearPants.png
+#word2, Wer isst?, Der Polizist isst, whoEat.png, policeOfficerEat.png
+#word2, Wer liest?, Die Schüler lesen, whoRead.png, studentsRead.png
+#word2, Wer trinkt?, Die Frauen trinken, whoDrink.png, womenDrink.png
+#word2, Wer schreibt?, Das Mädchen schreibt, whoWrite.png, girlWrite.png
+#word2, Wer hat den Hut?, Die Frau hat den Hut, whoHasHat.png, womanHasHat.png
+#word2, Wer hat den Ball?, Der Junge hat den Ball, whoHasBall.png, boyHasBall.png
+#youtube,den,fd_5Wjsf9xo
+#word2, Wer hat die Bücher?, Die Mädchen haben die Bücher, whoHasBooks.png, girlsHaveBooks.png
+#word2, Wer hat die Zeitung?, Der Arzt hat die Zeitung, whoHasNewspaper.png, doctorHasNewspaper.png
+#word2, Wer trägt Schuhe?, Ich trage Schuhe, whoWearShoes.png, iWearShoes.png
+#word2, Wer trägt Hüte?, Wir tragen Hüte, whoWearHats.png, weWearHats.png
+#word2, Wer läuft?, Wir laufen, whoWalk.png, weWalk.png
+#word2, Wer rennt?, Wir rennen, whoRun.png, weRun.png
+#word2, Wie viele Schüsseln sind hier?, Hier ist eine Schüssel, howManyBowls.png, hereIs1Bowl.png
+#word2, Wie viele Kinder sind hier?, Hier sind sechs Kinder, howManyChildren.png, hereAre6Children.png
+#word2, Wie viele Bäume sind hier?, Hier sind drei Bäume, howManyTrees.png, hereAre3Trees.png
+#word2, Was ist das?, Das ist Wasser, waterWhatIsIt.png, itIsWater.png
+#word2, Was ist das?, Das ist ein Teller, plateWhatIsIt.png, itIsAPlate.png
+#word2, Was ist das?, Das ist ein Baum, treeWhatIsIt.png, itIsATree.png
+#word2, Ist das Gras grün?, Ja. Das Gras ist grün, isGrassGreen.png, yesGrassIsGreen.png
+#word2, Hat sie ein Fahrrad?, Ja, hasSheABike.png, yesSheHasABike.png
+#word2, Ist das Pferd schwarz?, Nein. Das Pferd ist nicht schwarz, isHorseBlack.png, noHorseIsNotBlack.png
 
 
 
