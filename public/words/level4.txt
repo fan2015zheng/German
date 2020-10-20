@@ -129,6 +129,3 @@ FileFetchSuccessIdentifier
 #word2, Ist das Gras grün?, Ja. Das Gras ist grün, isGrassGreen.png, yesGrassIsGreen.png
 #word2, Hat sie ein Fahrrad?, Ja, hasSheABike.png, yesSheHasABike.png
 #word2, Ist das Pferd schwarz?, Nein. Das Pferd ist nicht schwarz, isHorseBlack.png, noHorseIsNotBlack.png
-
-
-
