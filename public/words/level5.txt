@@ -2,7 +2,7 @@ FileFetchSuccessIdentifier
 #word, ,ein Mann und ein Hund, aManADog.png
 #word, ,eine Frau und ihr Hund, aWomanHerDog.png
 #word, ,ein Mädchen und ein Pferd, aGirlAHorse.png
-#word, ,ein Polizist und sein Pferd, aPoliceOfficerHisDog.png
+#word, ,ein Polizist und sein Pferd, aPoliceOfficerHisHorse.png
 #word, ,eine Frau und ihr Auto ,aWomanHerCar.png
 #word, ,eine Frau und ihre Katze ,aWomanHerCat.png
 #word, ,ein Mann und sein Auto ,aManHisCar.png
@@ -44,7 +44,7 @@ FileFetchSuccessIdentifier
 #word, ,Der Vater und seine Söhne spielen, fatherHisSonsPlay.png
 #word, ,Der Vater liest nicht. Seine Tochter liest, fatherNotReadHisDaughterRead.png
 #word, ,Der Sohn spielt nicht. Sein Vater spielt, sonNotPlayFatherPlay.png
-#word, ,Die Kinder kochen nicht. Ihr Vater kocht,childrenNotCookFatherCook.
+#word, ,Die Kinder kochen nicht. Ihr Vater kocht,childrenNotCookFatherCook.png
 #word, ,Wer trinkt?,whoDrink.png
 #word, ,Wer isst?, whoEat.png
 #word, ,Wer spielt?,whoPlay.png
@@ -63,3 +63,64 @@ FileFetchSuccessIdentifier
 #word, ,Die Mädchen sind Schwestern, girlsAreSisters.png
 #word, ,Die Jungen sind Brüder, boysAreBrothers.png
 #word, ,Die Mädchen sind keine Schwestern. Sie sind Freundinnen, girlsAreNotSistersTheyAreFriends.png
+#word, ,Das sind meine Brüder,theseAreMyBrothers.png
+#word, ,Das ist mein Bruder, thisIsMyBrother.png
+#word, ,Das sind meine Freundinnen, theseAreMyGirlFriends.png
+#word, ,Das ist mein Freundin, thisIsMyGirlFriend2.png
+#word, ,Das ist meine Schwester, thisIsMySister.png
+#word, ,Das sind meine Schwestern, theseAreMySisters.png
+#word, ,Das ist meine Mutter, thisIsMyMother2.png
+#word, ,Das sind meine Eltern, theseAreMyParents.png
+#word, ,Das sind meine Söhne, theseAreMySons.png
+#word, ,Das ist meine Schwester, thisIsMySister2.png
+#word, ,Das ist unser Sohn, thisIsOurSon.png
+#word, ,Das ist unsere Mutter, thisIsOurMother.png
+#word, ,Das sind unsere Kinder, theseAreOurChildren.png
+#word, ,Das sind unsere Eltern, theseAreOurParents.png
+#word, ,Sein Fahrrad ist groß, hisBikeIsBig.png
+#word, ,Ihr Faharrad ist klein, herBikeIsSmall.png
+#word, ,Ihr Fahrrad ist grün, theirBikeIsGreen.png
+#word, ,Unser Fahrrad ist schwarz, ourBikeIsBlack.png
+#word, ,Wir haben einen Sohn und drei Töchter, weHave1Son3Daughters.png
+#word, ,Wir haben zwei Söhne, weHave2Sons.png
+#word, ,Wir haben vier Töchter, weHave4Daughters.png
+#word, ,acht Stühle, 8Chairs.png
+#word, ,acht Eier, 8Eggs.png
+#word, ,sieben Stifte, 7Pens.png
+#word, ,sieben Babys, 7Babies.png
+#word, ,neun Hüte, 9Hats.png
+#word, ,neun Äpfel, 9Apples.png
+#word, ,zehn Tassen, 10Cups.png
+#word, ,zehn Teller, 10Plates.png
+#word, ,elf Schüsseln, 11Bowls.png
+#word, ,elf Blumen, 11Flowers.png
+#word, ,zwölf Bälle, 12Balls.png
+#word, ,zwölf Schlüssel, 12Keys.png
+#word, ,sechs,6.png
+#word, ,sieben,7.png
+#word, ,acht,8.png
+#word, ,neun,9.png
+#word, ,zehn,10.png
+#word, ,elf,11.png
+#word, ,zwölf,12.png
+#word, ,null,0.png
+#word, ,elf null neun fünf, 11095.png
+#word, ,drei zwei eins null, 3210.png
+#word, ,sechs sieben acht neun zehn, 678910.png
+#word, ,sech acht zehn zwölf, 681012.png
+#word, ,Sie ist ein Jahr alt, sheIs1.png
+#word, ,Sie ist zwei Jahre alt, sheIs2.png
+#word, ,Sie ist sechs Jahre alt, sheIs6.png
+#word2, Wie alt ist er?, Er ist sechs Jahre alt, howOldHeIs.png, heIs6.png
+#word2, Wie alt ist sie?, Sie ist sieben Jahre alt, howOldSheIs.png, sheIs7.png
+#word2, Wie alt bist du?, Ich bin fünf Jahre alt, howOldYouAre1.png, iAm5.png
+#word2, Wie alt bist du?, Ich bin zehn Jahre alt, howOldYouAre2.png, iAm10.png
+#word, ,Sie sind mein Arzt, youAreMyDoctor.png
+#word, ,Du bist meine Freundin, youAreMyGirlFriend.png
+#word, ,Du bist meine Frau, youAreMyWife.png
+#word, ,Sie sind mein Lehrer, youAreMyTeacher.png
+#youtube, Du Sie,caZyAkWkFHs
+#word2, Schläfst du?, Nein, youSleepQ.png, sleepNo.png
+#word2, Was machst du?, Ich lese, whatYouDo.png, iRead.png
+#word2, Essen Sie?, Nein, youEatQ.png, eatNo.png
+#word2, Was machen Sie?, Ich schreibe, whatYouDoFormal.png, iWrite.png
