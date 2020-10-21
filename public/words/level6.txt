@@ -35,3 +35,89 @@ FileFetchSuccessIdentifier
 #word, ,eine Küche, aKitchen.png
 #word, ,ein Fenster, aWindow.png
 #word, ,ein Spülbecken, aSink.png
+#word, ,Die Äpfel sind in der Schüssel, applesInBowl.png
+#word, ,Die Schüssel ist auf dem Tisch, bowlOnTable.png
+#word, ,Der Tisch ist in der Küche, tableInKitchen.png
+#word, ,Die Küche ist im Haus, kitchenInHouse.png
+#word, ,Der Junge ist im Haus, boyInHouse.png
+#word, ,Die Familie ist im Haus, familyInHouse.png
+#word, ,Die Frau ist in der Wohnung, womanInApartment.png
+#word, ,Das Mädchen ist in der Wohnung, girlInApartment.png
+#word, ,Diese Tür ist groß, thisDoorIsBig.png
+#word, ,Dieses Fenster ist groß, thisWindowIsBig.png
+#word, ,Dieses Fenster ist klein, thisWindowIsSmall.png
+#word, ,Diese Tür ist klein, thisDoorIsSmall.png
+#youtube,Dieser Diese Dieses,Qz8B7QFAACg
+#word, ,Der Laptop ist im Schlafzimmer, laptopInBedroom.png
+#word, ,Die Familie ist im Esszimmer, familyInDinningRoom.png
+#word, ,Der Mann ist im Esszimmer, manInDinningRoom.png
+#word, ,Die Katze ist im Schlafzimmer, catInBedroom.png
+#word, ,Das Schlafzimmer ist grün, bedroomIsGreen.png
+#word, ,Das Esszimmer ist grün, dinningRoomIsGreen.png
+#word, ,Die Küche ist grün, kitchenIsGreen.png
+#word, ,Das Wohnzimmer ist grün, livingRoomIsGreen.png
+#word, ,Das Badezimmer ist grün, bathroomIsGreen.png
+#word, ,Das Haus ist grün, houseIsGreen.png
+#word, ,Das Mädchen und ihr Großvater spielen, girlGrandpaPlay.png
+#word, ,Der Junge und sein Großvater sind im Badezimmer, boyGrandpaInBathroom.png
+#word, ,Der Junge und seine Großmutter kochen, boyGrandmaCook.png
+#word, ,Das Mädchen und ihre Großmutter sind im Esszimmer, girlGrandmaInDinningRoom.png
+#word, ,Die Schwester küsst ihren Bruder, sisterKissBrother.png
+#word, ,Der Vater umarmt seinen Sohn, fatherHugSon.png
+#word, ,Die Mutter umarmt ihre Tochter, motherHugDaughter.png
+#word, ,Der Mann küsst seine Frau, manKissWifte.png
+#word, ,Sie umarmt ihre Großmutter, sheHugGrandma.png
+#word, ,Er küsst seinen Sohn, heKissSon.png
+#word, ,Wir umarmen unsere Mutter, weHugMother.png
+#word, ,Sie küsst ihren Mann, sheKissHusband.png
+#word, ,Ich liebe meinen Großvater, iLoveGrandpa.png
+#word, ,Ich liebe meine Schwester, iLoveSister.png
+#word, ,Ich liebe meine Mutter, iLoveMother.png
+#word, ,Ich liebe meinen Bruder, iLoveBrother.png
+#word, ,Die Frau liebt ihren Mann, womanLoveHusband.png
+#word, ,Die Eltern lieben ihre Kinder, parentsLoveChildren.png
+#word, ,Der Junge liebt seinen Großvater, boyLoveGrandpa.png
+#word, ,Das Mädchen liebt ihren Hund, girlLoveDog.png
+#word, ,Die Mädchen umarmen ihren Vater, girlsHugFather.png
+#word, ,Der Mann und Die Frau küssen ihre Kinder, manWomanKissChildren.png
+#word, ,Die Kinder lieben ihre Mutter, childrenLoveMother.png
+#word, ,Ich liebe mein Baby, iLoveBaby.png
+#word, ,Die Jungen sind unter dem Bett, boysUnderBed.png
+#word, ,Die Katze ist unter dem Tisch, catUnderTable.png
+#word, ,Der Hund ist unter dem Hemd, dogUnderShirt.png
+#word, ,Ich bin auf dem Bett, iOnBed.png
+#word, ,Ich bin unter dem Bett, iUnderBed.png
+#word, ,Die Katze ist auf dem Tisch, catOnTable.png
+#word, ,Der Mann ist unter dem Auto, manUnderCar.png
+#word, ,Das Kind hört zu, childListen.png
+#word, ,Die Jungen sehen fern, boysWatchTV.png
+#word, ,Die Eltern hören zu, parentsListen.png
+#word, ,Die Katze sieht dem Fisch zu, catWatchFish.png
+#word, ,Die Eltern sehen ihren Kindern zu, parentsWatchChildren.png
+#word, ,Das Mädchen hört Radio, girlListenRadio.png
+#word, ,Der Mann hört Radio, manListenRadio.png
+#word, ,Der Junge und das Mädchen sehen dem Fisch zu, boyGirlWatchFish.png
+#word, ,Der Junge sitzt, boySit.png
+#word, ,Das Mädchen sitzt, girlSit.png
+#word, ,Der Mann steht, manStand.png
+#word, ,Die Frau steht, womanStand.png
+#word, ,Die Katze liegt, catLie.png
+#word, ,Der Hund liegt, dogLie.png
+#word, ,Die Tochter sitzt im Wohnzimmer, daughterSitInLivingRoom.png
+#word, ,Der Großvater liegt im Wohnzimmer, grandpaLieInLivingRoom.png
+#word, ,Der Vater steht in der Küche, fatherStandInKitchen.png
+#word, ,Der Sohn steht im Wohnzimmer, sonStandInLivingRoom.png
+#word, ,Die Mutter sitzt in der Küche, motherSitInKitchen.png
+#word, ,Die Großvater liegt im Graß, grandmaLieInGrass.png
+#youtube,ihr,z6dD7D6EMZ8
+#word2,Ist das Ihr Buch?,Ja. Das ist mein Buck, isItYourBook.png, yesItIsMyBook.png
+#word2,Ist das Ihr Hut?, Nein. Das ist nicht mein Hut, isItYourHat.png, noItIsNotMyHat.png
+#word2,Ist das deine Schwester?, Ja. Das ist meine Schwester, isThisYourSister.png, yesThisIsMySister.png
+#word2,Ist das dein Ball?, Ja. Das ist mein Ball, isItYourBall.png, yesItIsMyBall.png
+#word2,Wo sind meine Schlüssel? Ihre Schlüssel sind im Auto, whereMyKeys.png, yourKeysInCar.png
+#word2,Wo ist mein Mantel?, Ihr Mantel ist auf dem Stuhl, whereMyCoat.png, yourCoatOnChair.png
+#word2,Wo sind meine Bücher?, Deine Bücher liegen auf dem Stuhl, whereMyBooks.png, yourBooksOnChair.png
+#word2,Wo ist meine Tasse?, Deine Tasse ist im Spülbecken, whereMyCup.png, yourCupInSink.png
+#word2,Ist das dein Bruder?, Ja. Das ist mein Bruder, isThisYourBrother.png, yesThisIsMyBrother.png
+#word2,Wo ist meine Zeitung?, Ihre Zeitung ist auf dem Tisch, whereMyNewspaper.png, yourNewspaperOnTable.png
+#word2,Wo sind die Schuhe?, Die Schuhe stehen unter dem Bett, whereShoes.png, shoesStandUnderBed.png
