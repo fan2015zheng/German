@@ -65,7 +65,7 @@ FileFetchSuccessIdentifier
 #word, ,Die Schwester küsst ihren Bruder, sisterKissBrother.png
 #word, ,Der Vater umarmt seinen Sohn, fatherHugSon.png
 #word, ,Die Mutter umarmt ihre Tochter, motherHugDaughter.png
-#word, ,Der Mann küsst seine Frau, manKissWifte.png
+#word, ,Der Mann küsst seine Frau, manKissWife.png
 #word, ,Sie umarmt ihre Großmutter, sheHugGrandma.png
 #word, ,Er küsst seinen Sohn, heKissSon.png
 #word, ,Wir umarmen unsere Mutter, weHugMother.png
@@ -108,13 +108,13 @@ FileFetchSuccessIdentifier
 #word, ,Der Vater steht in der Küche, fatherStandInKitchen.png
 #word, ,Der Sohn steht im Wohnzimmer, sonStandInLivingRoom.png
 #word, ,Die Mutter sitzt in der Küche, motherSitInKitchen.png
-#word, ,Die Großvater liegt im Graß, grandmaLieInGrass.png
+#word, ,Die Großmutter liegt im Graß, grandmaLieInGrass.png
 #youtube,ihr,z6dD7D6EMZ8
 #word2,Ist das Ihr Buch?,Ja. Das ist mein Buck, isItYourBook.png, yesItIsMyBook.png
 #word2,Ist das Ihr Hut?, Nein. Das ist nicht mein Hut, isItYourHat.png, noItIsNotMyHat.png
 #word2,Ist das deine Schwester?, Ja. Das ist meine Schwester, isThisYourSister.png, yesThisIsMySister.png
 #word2,Ist das dein Ball?, Ja. Das ist mein Ball, isItYourBall.png, yesItIsMyBall.png
-#word2,Wo sind meine Schlüssel? Ihre Schlüssel sind im Auto, whereMyKeys.png, yourKeysInCar.png
+#word2,Wo sind meine Schlüssel?, Ihre Schlüssel sind im Auto, whereMyKeys.png, yourKeysInCar.png
 #word2,Wo ist mein Mantel?, Ihr Mantel ist auf dem Stuhl, whereMyCoat.png, yourCoatOnChair.png
 #word2,Wo sind meine Bücher?, Deine Bücher liegen auf dem Stuhl, whereMyBooks.png, yourBooksOnChair.png
 #word2,Wo ist meine Tasse?, Deine Tasse ist im Spülbecken, whereMyCup.png, yourCupInSink.png
