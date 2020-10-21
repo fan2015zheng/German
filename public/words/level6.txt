@@ -1,0 +1,37 @@
+FileFetchSuccessIdentifier
+#word, ,die Wohnung, apartment.png
+#word, ,eine Wohnung,anApartment.png
+#word, ,das Haus, house.png
+#word, ,ein Haus, aHouse.png
+#word, ,die Tür, door.png
+#word, ,eine Tür, aDoor.png
+#word, ,der Computer, computer.png
+#word, ,der Laptop, laptop.png
+#word, ,die Computer, computers.png
+#word, ,der Fernseher, tv.png
+#word, ,ein Fernseher, aTV.png
+#word, ,das Radio, radio.png
+#word, ,ein Radio, aRadio.png
+#youtube, dem der den,3unBmbBOqyA
+#word, ,Der Apfel ist auf dem Laptop,appleOnLaptop.png
+#word, ,Das radio ist auf dem Stuhl, radioOnChair.png
+#word, ,Die Katze ist auf dem Fernseher, catOnTV.png
+#word, ,Der Computer ist auf dem Tisch, computerOnTable.png
+#word, ,Die Schlüssel sind im Schuh, keysInShoe.png
+#word, ,Die Katze ist im Hut, catInHat.png
+#word, ,Der Computer ist im Auto, computerInCar.png
+#word, ,Der Mann ist im Auto, manInCar.png
+#word, ,Der Mann ist auf dem Auto, manOnCar.png
+#word, ,Die Katze ist im Haus, catInHouse.png
+#word, ,Die Katze ist auf dem Haus, catOnHouse.png
+#word, ,das Fenster, window.png
+#word, ,die Toilette, toilet.png
+#word, ,das Spülbecken, sink.png
+#word, ,das Wohnzimmer, livingRoom.png
+#word, ,die Küche, kitchen.png
+#word, ,das Badezimmer, bathroom.png
+#word, ,ein Wohnzimmer, aLivingRoom.png
+#word, ,ein Badezimmer, aBathroom.png
+#word, ,eine Küche, aKitchen.png
+#word, ,ein Fenster, aWindow.png
+#word, ,ein Spülbecken, aSink.png
