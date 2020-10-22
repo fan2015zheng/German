@@ -1,2 +1,95 @@
 FileFetchSuccessIdentifier
 #youtube,einem einer,dFYZJQs68JA
+#word, , ,weLiveInAHouse.png
+#word, , ,weLiveInAnApartment.png
+#word, , ,iLiveInAHouse.png
+#word, , ,iLiveInAnApartment.png
+#word, , ,sheLiveInAnApartment.png
+#word, , ,theyLiveInAHouse.png
+#word, , ,rome.png
+#word, , ,paris.png
+#word, , ,moscow.png
+#word2, , ,whereYouLive.png, iLiveInApartment2.png
+#word2, , ,whereYouLiveFormal.png, iLiveInMoscow.png
+#youtube, in im,_Q10tann_co
+#youtube, ihr,z6dD7D6EMZ8
+#word2, , ,whereYousLive1.png, weLiveInRome.png
+#word2, , ,whereYousLive2.png, weLiveInMoscow.png
+#word2, , ,whereYousLive3.png, weLiveInParis.png
+#word, , ,country1.png
+#word, , ,country2.png
+#word, , ,country3.png
+#word, , ,city.png
+#word, , ,bridge.png
+#word, , ü,park.png
+#word, , ß,street.png
+#word, , ,bridge2.png
+#word, , ,aCountry.png
+#word, , ,aCity.png
+#word, , ,aStreet.png
+#word, , ,aPark.png
+#word, , ü,aBridge.png
+#word, , ,girlSitOnBridge.png
+#word, , ,manStandOnStreet.png
+#word, , ,girlsStandOnBridge.png
+#word, , ,womanSitInPark.png
+#youtube, dem der den,3unBmbBOqyA
+#word, , ,thisStreetInParis.png
+#word, , ,thisCityInFrance.png
+#word, , ,thisBridgeInNewYork.png
+#word, , ,thisCityInUSA.png
+#word, , ,theyComeFromFrance.png
+#word, , ,theyComeFromUSA.png
+#word, , ,heComeFromFrance.png
+#word, , ,sheComeFromUSA.png
+#word, , ,weComeFromGermany.png
+#word, , ,iComeFromGermany.png
+#word, , ,heComeFromGermany.png
+#word, , ,yousComeFromGermany.png
+#word, , ,china.png
+#word, , ,russia.png
+#word, , Ä,egypt.png
+#word2, , ,whereYouComeFrom.png, iComeFromUSA.png
+#word2, , Ä,whereYouComeFromFormal.png, iComeFromEgypt.png
+#word2, , ,whereYousComeFromFormal.png, weComeFromFrance.png
+#word2, , ,whereYousComeFrom.png, weComeFromChina.png
+#word, , ,horseStandFarAwayFromHouse.png
+#word, , ,dogSitNearHouse.png
+#word, , ,girlStandFarAwayFromHouse.png
+#word, , ,boyStandNearHouse.png
+#word, , ,myHouseStandFarAwayFromStreet.png
+#word, , ,myHouseStandNearStreet.png
+#word, , ,chairStandNearDoor.png
+#word, , ,chairStandFarAwayFromDoor.png
+#word, , ,iStandNearTree.png
+#word, , ,iStandFarAwayFromTree.png
+#word, , ,iStandNearBridge.png
+#word, , ,iStandFarAwayFromBridge.png
+#word, , ,brazil.png
+#word, , ,japan.png
+#word, , ,italy.png
+#word, , ,thisCountryCalledItaly.png
+#word, , ,thisCountryCalledJapan.png
+#word, , ,thisCountryCalledRussia.png
+#word, , Ä,thisCountryCalledEgypt.png
+#word, , ,japanLieNearChina.png
+#word, , ,italyLieNearFrance.png
+#word, , ,italyLieFarAwayFromBrazil.png
+#word, , ,japanLieFarAwayFromBrazil.png
+#word2, , ,iAmDoctor.png,iCalledNatalieWachter.png
+#word2, , ,iAmPoliceOfficer.png,iCalledJonasBaumann.png
+#word2, , ,iAmTeacher.png,iCalledSuziRichter.png
+#word2, , ,iComeFromRussia.png,iCalledViktorPopov.png
+#word, , ,thisIsMyFatherHeCalledMichaelSchmidt.png
+#word, , ,thisIsMyBrotherHeCalledUliSchmidt.png
+#word, , ,thisIsMyMotherSheCalledAnnaSchmidt.png
+#word, , ,iCalledSabineSchmidt.png
+#word2, , ,helloWhatCalledYou.png,iCalledSabine2.png
+#word, , ,niceMeetYou.png
+#word2, , ,helloWhatCalledYouFormal.png, iAmHerrWeber.png
+#word, , ,niceMeetYouFormal.png
+#word2, Tschüss, Tschüss,bye1.png,bye2.png
+#word, ,Das ist mein Vater. Er heißt Bertrand. Er isst im Esszimmer, thisIsMyFatherEtc.png
+#word, ,Das ist mein Bruder. Er heißt Wladimir. Er schläft im Schlafzimmer, thisIsMyBrotherEtc.png
+#word, ,Das ist meine Mutter. Sie heißt Mei. Sie kocht in der Küche, thisIsMyMotherEtc.png
+#word, ,Das ist meine Schwester. Sie heißt Giulia. Sie spielt im Park, thisIsMySisterEtc.png
