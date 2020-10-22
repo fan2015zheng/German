@@ -1,0 +1,99 @@
+FileFetchSuccessIdentifier
+#word, , ,manWork.png
+#word, , ,womenWork.png
+#word, , ,school.png
+#word, , ,hospital.png
+#word, , ,restaurant.png
+#word, , ,manTeacherWorkAtSchool.png
+#word, , ,womenWorkInRestaurant.png
+#word, , ,womanDoctorWorkInHospital.png
+#word, , ,menWorkInPark.png
+#word, , ,manInHospital.png
+#word, , ,manInHospital.png
+#word, , ,womenEatInRestaurant.png
+#word, , ,womenEatInRestaurant.png
+#word, , ,iPlayInPark.png
+#word, , ,iPlayInSchool.png
+#word, , ,iWorkInHospital.png
+#word, , ,iWorkAtSchool.png
+#word, , ß,sheRunOutside.png
+#word, , ,heRunInside.png
+#word, , ,familyEatInside.png
+#word, , ß,manWomanEatOutside.png
+#word, , ,theseWomenWorkInside.png
+#word, , ,thisWomanWorkOutside.png
+#word, , ,thisManWorkInside.png
+#word, , ,theseMenWorkOutside.png
+#word, , ,morning.png
+#word, , ,afternoon.png
+#word, , ,evening.png
+#word, , ,night.png
+#word, , ,itIsMorning.png
+#word, , ,itIsAfternoon.png
+#word, , ,itIsAfternoon.png
+#word, , ,itIsNight.png
+#word, , ,itIsAfternoonMenEatLunch.png
+#word, , ,itIsMorningChildrenBreakfast.png
+#word, , ,itIsEveningFamilyEatDinner.png
+#word, , ,sheEatLunchOutside.png
+#word, , ,sheEatLunchInside.png
+#word, , ,familyBreakfastOutside.png
+#word, , ,familyBreakfastInside.png
+#word, , ,weBreakfastInside.png
+#word, , ,weBreakfastOutside.png
+#word, , ,weEatDinnerOutside.png
+#word, , ,weEatDinnerInside.png
+#word, , ,heWorkMornings.png
+#word, , ,heWorkNights.png
+#word, , ,theyPlayAfternoons.png
+#word, , ,sheWatchTVEvenings.png
+#word2, , ,whereYouWork.png, iWorkInAPark.png
+#word2, , ,whereYouWork.png, iWorkInAHospital.png
+#word2, , ,whereYouWork.png, iWorkAtASchool.png
+#word2, , ,whereYouWork.png, iWorkInARestaurant.png
+#word2, , ,whenYouWork.png, iWorkMornings.png
+#word2, , ,whenYouWork.png, iWorkAfternoons.png
+#word2, , ,whenYouWork.png, iWorkNights.png
+#word, , ,heWearSocksShoes.png
+#word, , ,heWearShoesButNoSocks.png
+#word, , ,iWearASuitATie.png
+#word, , ,iWearASuitButNoTie.png
+#word, , ,girlHasABookButNotRead.png
+#word, , ,girlHasABookRead.png
+#word, , ,boyHasAnEggEat.png
+#word, , ,boyHasAnEggButNotEat.png
+#word2, , ,youWearSocksShoesQ.png,iWearSocksButNoShoes.png
+#word2, , ,youHaveBrotherSisterQ.png,yesIhave2Brothers2Sisters.png
+#word2, , ,youHaveACoatAHatQ.png,iHaveACoatButNoHat.png
+#word2, , ,whereYouDrinkCoffee.png,iDrinkCoffeeInARestaurant.png
+#word2, , ,whenYouDrinkCoffee.png, iDrinkCoffeeMornings.png
+#word, , ,heReadBeforeBedtime.png
+#word, , ,sheReadAfterLunch.png
+#word, , ,theyDrinkCoffeeAfterDinner.png
+#word, , ,heDrinkCoffeeBeforeWork.png
+#word2, , ,whenYouReadQ.png,iReadBeforeBedtime.png
+#word2, , ,whenYouEatQ.png,iEatAfterWork.png
+#word, , ,13Eggs.png
+#word, , ,14Cups.png
+#word, , ,15Ties.png
+#word, , ü,16Belts.png
+#word, , ,17Plates.png
+#word, , ,18Balls.png
+#word, , ,19Flowers.png
+#word, , ü,20Books.png
+#word, , ,19ComeBefore20.png
+#word, , ,14ComeAfter13.png
+#word, , ,15ComeAfter14.png
+#word, , ,17ComeBefore18.png
+#word, , ,17ComeAfter16.png
+#word2, , ,howOldAreYou.png,iAm14.png
+#word2, , ,howOldAreYouFormal.png, iAm19.png
+#word, , ,goodMorning.png
+#word, , ,goodDay.png
+#word, , ,goodEvening.png
+#word, , ,goodNight.png
+#word2, , ,goodMorningHowAreYou.png,iGood.png
+#word2, , ,goodDayHowAreYous.png,weGood.png
+#word2, , ,whenYouWrite.png, iWriteMorningsEvenings.png
+#word2, , ,whatYouDoAfternoon.png, iPlayWithMySon.png
+#word2, , ,morningsWriteIInPark.png,eveningsWriteIInLivingroom.png
