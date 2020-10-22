@@ -1,0 +1,82 @@
+FileFetchSuccessIdentifier
+#word, , ,sweater.png
+#word, , ,jeans.png
+#word, , ü,belt.png
+#word, , ,suit.png
+#word, , ,socks.png
+#word, , ,tie.png
+#word, , ,aSweater.png
+#word, , ,aTie.png
+#word, , ,aSuit.png
+#word, , ,aBelt.png
+#word, , ,aJeans.png
+#word, , ,herSweaterIsPurple.png
+#word, , ,hisSweaterIsGray.png
+#word, , ,hisSocksArePurple.png
+#word, , ,herSocksAreGray.png
+#word, , ,bigManWearATie.png
+#word, , ,smallWomanWearATShirt.png
+#word, , ,smallManWearASweater.png
+#word, , ,bigWomanWearJeans.png
+#word, , ,smallWomanWearAGraySuit.png
+#word, , ,bigManWearABlackSuit.png
+#word, , ,myDressIsPink.png
+#word, , ,myShoesAreBrown.png
+#word, , ü,myBeltIsPink.png
+#word, , ,myTieIsBrown.png
+#word, , ,herDressIsOrange.png
+#word, , ,herTShirtIsOrange.png
+#word, , ,herPantsIsBlue.png
+#word, , ,herCoatIsBlue.png
+#word, , ,heHasBrownHair.png
+#word, , ,theyHaveBlondHair.png
+#word, , ,weHaveBlondHair.png
+#word, , ,iHaveBrownHair.png
+#word, , ,heHasGrayHair.png
+#word, , ,iHaveRedHair.png
+#word, , ,weHaveGrayHair.png
+#word, , ,youHaveRedHair.png
+#word2, , ,whatColorHisSweater.png,hisSweaterIsBlue.png,
+#word2, , ,whatColorHisHair.png,hisHairAreBrown.png
+#word2, , ,whatColorYourHair.png,myHairAreRed.png
+#youtube,dative case,G-dgLzu18EU
+#word, , ,boyIsHot.png
+#word, , ,manIsCold.png
+#word, , ,womanIsHot.png
+#word, , ,girlIsCold.png
+#word, , ,boyThirsty.png
+#word, , ,girlThirsty.png
+#word, , ,womanHungry.png
+#word, , ,manHungry.png
+#word, , ,iHungry.png
+#word, , ,iThirsty.png
+#word, , ,iHot.png
+#word, , ,iCold.png
+#youtube, Uns ihnen Ihnen,uoEwlH9XgZ0
+#word2, , ,youThirstyQ.png, yesIThirsty.png
+#word2, , ,yousColdQFormal.png, noWeNotCold.png
+#word2, , ,youHungryQ.png, noINotHungry.png
+#word2, , ,yousHotQ.png, yesWeHot.png
+#word2, , ,youColdQ.png, yesICold.png
+#word2, , ,yousThirstyQFormal.png, noWeNotThirsty.png
+#word2, , ,youHotQ.png, noINotHot.png
+#word2, , ,yousHungryQ.png, yesWeHungry.png
+#word, , ü,boyTired.png
+#word, , c,womanTired.png
+#word, , ,manSick.png
+#word, , ,girlSick.png
+#word2, , ,youSickQ.png,noIGood.png
+#word2, , ü,youTiredQ.png,noIGood2.png
+#youtube,Wie geht es Ihnen?,h8psh1k2RPo
+#word2, , ,howYouFormal.png, iSick.png
+#word2, , ,howYouFormal2.png, iGood.png
+#word2, , ,howYou.png, iTired.png
+#word2, , ,howYou2.png, iGood2.png
+#word, , ,helloMom.png
+#word, , ,helloDad.png
+#word, , ,helloGrandma.png
+#word, , ,helloGrandpa.png
+#word, , ,byeMom.png
+#word, , ,byeDad.png
+#word, , ,byeGrandma.png
+#word, , ,byeGrandpa.png
