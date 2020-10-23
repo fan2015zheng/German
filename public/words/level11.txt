@@ -1,0 +1,89 @@
+FileFetchSuccessIdentifier
+#word, , ,heSpeak.png
+#word, , ,sheSpeak.png
+#word, , ,manReadChinese.png
+#word, , ,womanReadEnglish.png
+#word, , ,boyWriteArabic.png
+#word, , ,girlWriteGerman.png
+#word, , ,girlSpeakEnglish.png
+#word, , ,womanSpeakGerman.png
+#word, , ,iSpeakChinese.png
+#word, , ,thisBoyIsFromGermany.png
+#word, , ,thisWomanIsFromRussia.png
+#word, , ,thisManIsFromAustralia.png
+#word, , ,menWomenGirlsBoysAreHumans.png
+#word, , ,dogsCatsHorsesAreAnimals.png
+#word, , ,itIsAnAnimal.png
+#word, , ,theyAreAnimals.png
+#word, , ,itIsAPerson.png
+#word, , ,theyAreHumans.png
+#youtube,man,Ku4P3ac0puo
+#word, , ,inEgyptOneSpeakArabic.png
+#word, , ,inChinaOneSpeakChinese.png
+#word, , ,inGermanyOneSpeakGerman.png
+#word, , ,inAustraliaOneSpeakEnglish.png
+#word, , ,thisPersonIsFromChinaSheSpeakChinese.png
+#word, , ,thisAnimalIsFromChinaItSpeakNoChinese.png
+#word, , ,thisPersonIsFromAustraliaHeSpeakEnglish.png
+#word, , ,thisAnimalIsFromAustraliaItSpeakNoEnglish.png
+#word2, , ,youSpeakArabicQFormal.png, yesISpeakArabic.png
+#word2, , ,youSpeakChineseQ.png,noISpeakNoChinese.png
+#word2, , ,excuseMeYouSpeakChineseQ.png, yesISpeakChinese.png
+#word2, , ,excuseMeYouSpeakEnglishQ.png, yesISpeakEnglish.png
+#word, , ,10Belts.png
+#word, , ,20Cups.png
+#word, , ,30Balls.png
+#word, , ,40Plates.png
+#word, , ,50Ties.png
+#word, , ,60Hats.png
+#word, , ,10.png
+#word, , ,20.png
+#word, , ,30.png
+#word, , ,40.png
+#word, , ,50.png
+#word, , ,60.png
+#word, , ,21Cups.png
+#word, , ,22Cups.png
+#word, , ,23Plates.png
+#word, , ,24Plates.png
+#word, , ,25Plates.png
+#word, , ,34Bowls.png
+#word, , ,35Bowls.png
+#word, , ,36Bowls.png
+#word, , ,37Plates.png
+#word, , ,38Plates.png
+#word, , ,39Plates.png
+#word, , ,44.png
+#word, , ,45.png
+#word, , ,46.png
+#word, , ,47.png
+#word, , ,48.png
+#word, , ,49.png
+#word, , ,howOldYouAre.png,iAm35.png
+#word, , ,howManyGuestsWeHave.png,weHave30.png
+#word, , ,iTeachEnglish.png
+#word, , ,sheTeachChinese.png
+#word, , ,heTeachArabic.png
+#word, , ,youTeachGermanQ.png
+#word, , ,heTeachBoysInArabic.png
+#word, , ,heTeachBoysInEnglish.png
+#word, , ,heTeachGirlsInGerman.png
+#word, , ,sheTeachGirlsInChinese.png
+#word, , ,heLearnArabic.png
+#word, , ,weLearnGerman.png
+#word, , ,theyLearnEnglish.png
+#word, , ,iLearnChinese.png
+#word, , ,youLearnEnglish.png
+#word, , ,youTeachArabic.png
+#word2, , ,whoIsYourTeacher.png, MrsLiIsMyTeacher.png
+#word2, , ,whoIsYourTeacher2.png, MrHaddadIsMyTeacher.png
+#word, , ,iSpeakArabicButILearnEnglish.png
+#word, , ,itIsMyTeacherHeCalledMrHaddad.png
+#word, , ,iCalledLin.png
+#word, , ,myParentsAreFromChina.png
+#word, , ,weLiveInNewYork.png
+#word, , ,myParentsSpeakNoEnglish.png
+#word, , ,iSpeakEnglish.png
+#word, , ,iLearnChineseGerman.png
+
+
