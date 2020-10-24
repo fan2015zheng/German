@@ -1,0 +1,90 @@
+FileFetchSuccessIdentifier
+#word, , ,manWakeHisWifeUp.png
+#word, , ,boyWakeUp.png
+#word, , ,manWakeHisFriendUp.png
+#word, , ,girlWakeUp.png
+#word, , ,manWakeUp.png
+#word, , ,womanWakeUp.png
+#word, , ,womanWakeGirlUp.png
+#word, , ,manWakeBoyUp.png
+#word, , ,heWashPants.png
+#word, , ,sheWashSweater.png
+#word, , ,iWashShirt.png
+#word, , ,heWashCar.png
+#word, , ,iWashMySocks.png
+#word, , ,theyWashTheirCar.png
+#word, , ,sheWashHerSkirt.png
+#word, , ,heWashHisTShirt.png
+#word, , ,girlWashFace.png
+#word, , ,womanWashFace.png
+#word, , ,theirFacesArePurpleYellow.png
+#word, , ,iWashHands.png
+#word, , ,womanWashHair.png
+#word, , ,ballIsOnHisFoot.png
+#word, , ,ballIsOnHisFinger.png
+#word, , ,ballIsOnHisFace.png
+#word, , ,streetIsWet.png
+#word, , ,shirtsAreDry.png
+#word2, , ,catIsDry.png,dogsAreWet.png
+#word2, , ,horsesAreDry.png,horsesAreWet.png
+#word2, , ,herHairAreWet.png,herHairAreDry.png
+#word, , ,herFaceIsDirty.png
+#word, , ,hisFaceIsClean.png
+#word, , ,shirtIsClean.png
+#word, , ,socksAreDirty.png
+#word, , ,shirtIsCleanDry.png
+#word, , ,shirtIsDirty.png
+#word, , ,shirtIsWet.png
+#word2, , ,whereIsMama.png, sheInBathroom.png
+#word, , ,whereIsPapa.png, heInKitchen.png
+#word2, , ,whyYouWashHands.png, iWashHandsBecauseTheyDirty.png
+#word2, , ,whyYouWearSweater.png, iWearSweaterBecauseICold.png
+#word2, , ,whyPapaInKitchen.png, papaInKitchenBecauseHeCook.png
+#word2, , ,whyMamaWashDog.png, mamaWashDogBecauseHeDirty.png
+#word2, , ,whyYouDrinkWater.png, iDrinkWaterBecauseIThirsty.png
+#word2, , ,whyYouInBathroom.png, iInBathroomBecauseIWashHands.png
+#word, , ,toothbrush.png
+#word, , ,toothpaste.png
+#word, , ,teeth.png
+#word, , ,brush.png
+#word, , ,soap.png
+#word, , ,towel.png
+#youtube, sich mir, idPMk0PQ1Kc
+#word, , ,womanBrushHair.png
+#word, , ,boysBrushTeeth.png
+#word, , ,manBrushTeeth.png
+#word, , ,girlsBrushHair.png
+#word, , ,iBrushTeeth.png
+#word, , ,sheBrushHair.png
+#word, , ,theyWashHands.png
+#word, , ,heBrushTeeth.png
+#word, , ,heWashHair.png
+#word, , ,sheBrushHorseWithABrush.png
+#word, , ,theyWashHandsWithSoap.png
+#word, , ,iBrushTeethWithToothpaste.png
+#word, , ,fatherWashFace.png
+#word, , ,daughterBrushHair.png
+#word, , ,herBrotherBrushTeeth.png
+#word, , ,iWashHandsBeforeLunch.png
+#word, , ,iDrinkCoffeAfterDinner.png
+#word, , ,iBrushTeethAfterBreakfast.png
+#word, , ,pillow.png
+#word, , ,blanket.png
+#word, , ,bedsheet.png
+#word, , ,iAmUnderBlanket.png
+#word, , ,bedsheetIsOnBed.png
+#word, , ,towelIsInBathroom.png
+#word, , ,catLieOnPillow.png
+#word, , ,pinkBedsheetIsClean.png
+#word, , ,pinkTowelIsClean.png
+#word, , ,pinkPillowIsClean.png
+#word, , ,pinkBlaketIsClean.png
+#word2, , ,whyDogSmellBad.png,becauseHeIsDirtyWet.png
+#word2, , , whyBedsheetSmellGood.png, becauseTheyAreClean.png
+#word2, , ,whyPeopleInDinningRoom.png, becauseTheyEatDinner.png
+#word2, , ,whyPeopleInKitchen.png, becauseTheyWashPlates.png
+#word2, , ,whyPeopleInLivingRoom.png,becauseTheyWatchTV.png
+#word2, , ,whatYouBuy.png, iBuyFlowers.png
+#word2, , ,howManyFlowersYouBuy.png,iBuy9Flowers.png
+#word2, , ,whyYouBuyFlowers.png, iBuyFlowersBecauseITodayAfternoonMyGrandmaVisit.png
+#word2, , ,whereYourGrandmaLive.png, sheLiveInNewYork.png
