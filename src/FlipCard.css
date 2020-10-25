@@ -32,7 +32,6 @@
 
 ._flipCardBack {
   transform: rotateY(180deg);
-  background-color: wheat;
 }
 
 ._flipCardBackExpand {

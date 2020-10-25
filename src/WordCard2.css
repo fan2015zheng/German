@@ -19,8 +19,9 @@
 
 ._wordCard2BackGerman {
   height: 100%;
-  width: 50%;
+  width: calc(50% - 5px);
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: wheat;
 }
