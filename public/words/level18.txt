@@ -74,6 +74,3 @@ FileFetchSuccessIdentifier
 #word, , ,takeBusTo4thStop.png
 #word, , ,getOffGoStraightTo2ndStreet.png
 #word, , ,museumStandsLeft.png
-
-
-
