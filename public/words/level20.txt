@@ -1,0 +1,115 @@
+FileFetchSuccessIdentifier
+#word, , ,aDogCanSwim.png
+#word, , ,aDogCanNotDriveCar.png
+#word, , ,aCatCanNotRead.png
+#word, , ,aCatCanRun.png
+#word, , ,horseCanWalk.png
+#word, , ,fishCanNotWalk.png
+#word, , ,heCanSwim.png
+#word, , ,babyCanNotSwim.png
+#word, , ,thisManCanWalk.png
+#word, , ,thisManCanNotWalk.png
+#word, , ,heCanDrive60KInADay.png
+#word, , ,heCanNotWalk60KInADay.png
+#word, , ,sheCanReadThisBookIn10Minutes.png
+#word, , ,sheCanNotReadThisBookIn10Minutes.png
+#word2, , ,canITakeBusToMuseum.png,yesYouCanBusStopIsBeforeMuseum.png
+#word2, , ,canIWalkToRestaurant.png,noYouCanNot10KToRestaurant.png
+#word, Can I take this train to Paris?, Kann ich mit diesem Zug nach Paris fahren?,
+#word, No you cannot. This train does not go to Paris., Nein das können Sie nicht. Der Zug fährt nicht nach Paris.
+#word, Can I take this train to Barcelona?, Kann ich mit diesem Zug nach Barcelona fahren? ,
+#word, Yes you can. It leaves at 18:45., Ja das können Sie. Er fährt um achtzehn Uhr fünfundvierzig ab. ,
+#word, ,Das Mädchen schläft am Strand,girlSleepOnSand.png
+#word, ,Der Mann läuft in den Bergen, manWalkInMontains.png
+#word, , ,manWomanRunInForest.png
+#word, , ,boysSwimInLake.png
+#word, , ,sand.png
+#word, , ,mountain.png
+#word, , ,forest.png
+#word, , ,lake.png
+#word, , ,theyGoToLake.png
+#word, , ,theyDriveInMountain.png
+#word, , ,theyWalkOnSand.png
+#word, , ,theyWalkInForest.png
+#word, , ,snowInCity.png
+#word, , ,rainAtLake.png
+#word, , ,rainInForest.png
+#word, , ,snowInMountains.png
+#word, , ,cloudyInParkToday.png
+#word, , ,sunnyInMoutains.png
+#word, , ,sunnyAtBeachToday.png
+#word, , ,cloundyAtLake.png
+#word, Why is your suitcase wet?,Warum ist dein Koffer nass?
+#word, My suitcase is wet because it rains.,Mein Koffer ist nass weil es regnet.
+#word, Why do you wear sunglasses?,Warum trägst du eine Sonnenbrille?
+#word, I wear sunglasses because it is sunny.,Ich trage eine Sonnenbrille weil es sonnig ist.
+#word, Is flight 55 on time?, Ist Flug fünfundfünfzig pünktlich?
+#word, No there is a delay,Nein. Er hat Verspätung.
+#word, Why is there a delay?,Warum hat er Verspätung?
+#word, It delays because it snows,Er hat Verspätung weil es schneit.
+#word, Is it snowing?,Scheit es?
+#word, Yes. It is snowing.,Ja. Es schneit.
+#word, Is it sunny,Ist es sonnig?
+#word, Yes. It is sunny.,Ja. Es ist sonnig.
+#word, Today it will rain.,Heute wird es regnen.
+#word, , Es regnet,itRains.png
+#youtube, future tense,O0QXdI3bkAQ
+#word, Today it will snow,Heute wird es schneien
+#word, , Es schneit,itSnow.png
+#word, , ,coldAtBeach.png
+#word, , ,hotInCity.png
+#word, , ,coldInMountains.png
+#word, , ,hotInForest.png
+#word, , ,coldInNewYorkInWinter.png
+#word, , ,hotInEgyptInSummer.png
+#word, , ,coldInRussiaInWinter.png
+#word, , ,hotInRomeInSummer.png
+#word,Good morning. Today will be hot ,Guten Morgen. Heute wird es heiß werdern
+#word,On Tuesday it will be cold. ,Am Dienstag wird es kalt werdern.
+#word,On Wednesday it will be cloudy,Am Mittwoch wird es wolkig werdern.
+#word,On Thursday it will be sunny ,Am Donnerstag wird es sonnig werden.
+#word, Can we eat dinner outside?,Können wir draußen zu Abend essen?
+#word,No. We cannot eat dinner outside,Nein. Wir können nicht draußen zu Abend essen.
+#word,Why not?,Warum nicht?
+#word,Because it will rain.,Weil es regnen wird.
+#word, Today I swim,Heute schwimme ich.
+#word, Tomorrow I will study.,Morgen werde ich lernen
+#word, On Wednesday I will play soccer,Am Mittwoch werde ich Fußball spielen.
+#word, On Thursday I will watch TV ,Am Donnerstag werde ich fernsehn.
+#word, What are you doing?,Was machst du?
+#word, I am buying a ticket ,Ich kaufe eine Eintrittskarte
+#word, Why are you buying a ticket? ,Warum kaufst du eine Eintrittskarte?
+#word, I buy a ticket because tomorrow I will go to a concert,Ich kaufe eine Eintrittskarte weil ich morgen zu einem Konzert gehen werde
+#word, Today I drive in the forest. Tomorrow I will wash my car.,Heute fahre ich in den Wald. Morgen werde ich mein Auto waschen
+#word, Today I buy an umbrella. Tomorrow it will rain.,Heute kaufe ich einen Regenschirm. Morgen wird es regnen.
+#word, Today I work. Tomorrow I will play golf,Heute arbeite ich. Morgen werde ich Golf spielen.
+#word, Today it rains. but tomorrow it will be sunny,Heute regnet es. aber morgen wird es sonnig sein
+#word, Today is cloudy. but tomorrow it will be hot,Heute ist es wolkig. aber mrogen wird es heiß sein
+#word, Today it snows. but tomorrow it will rain,Heute schneit es. aber morgen wird es regnen
+#word, What is the weather like?,Wie ist das Wetter?
+#word, ,Es ist kalt und es schneit,itIsColdSnow.png
+#word, ,Es ist heiß und sonnig,itIsHotSunny.png
+#word, Will it rain tomorrow?,Wird es morgen regnen?
+#word, No. Tomorrow will be sunny,Nein. Morgen wird es sonnig sein
+#word, Will this week snow?,Wird es diese Woche schneien?
+#word, No this week will not snow ,Nein. Diese Woche wird es nicht schneien.
+#word, , ,heWillRun.png
+#word, , ,sheWillRead.png
+#word, , ,theyWillHaveDinner.png
+#word, I will play tennis,Ich werde Tennis spielen
+#word, We will swim,Wir werden schwimmen
+#word, ,Sie werden sich küssen,theyWillKiss.png
+#word, She will go to post office,Sie wird zur Post gehen
+#word, Can we go to beach tomorrow?,Können wir morgen zum Strand gehen?
+#word, No we cannot,Nein. das können wir nicht.
+#word, Why not,Warum nicht?
+#word, Today is cloudy. Tomorrow it rains,Heute ist es wolkig. Morgen wird es regnen
+#word, We can go on Saturday,Wir können am Samstag gehen
+#word, When do we have lunch? ,Wann werden wir zu Mittag essen?
+#word, We have lunch after swimming, Wir werden nach dem schwimmen zu Mittag essen.
+#word, When do we play soccer,Wann werden wir Fußball spielen?
+#word, We will play soccer after eating,Wir werden nach dem Essen Fußball spielen
+#word, We will have dinner ,Wir werden zu Abend essen
+#word, , Sie werden Fußball spielen, theyWillPlayFootball.png
+#word, I will eat lunch,Ich werde zu Mittag essen
+#word, I will play soccer, Ich werde Fußball spielen
