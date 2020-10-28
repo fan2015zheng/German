@@ -1,106 +1,125 @@
 FileFetchSuccessIdentifier
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
+#word2, , ,sheRun.png,heRan.png
+#word2, , ,sheEat.png,heHasEaten.png
+#word2, , ,sheBuyABook.png,sheBoughtABook.png
+#word2, , ,hePlayFootball.png,hePlayedFootball.png
+#word, I am reading a book,Ich lese ein Buch
+#word, I read 4 books,Ich habe vier Bücher gelesen
+#word, I am selling newspapers,Ich verkaufe Zeitungen
+#word, I sold a newspaper,Ich habe eine Zeitung verkauft
+#word, She will buy clothes,Sie wird Kleidung kaufen
+#word, She is buying clothes,Sie kauft Kleidung
+#word, She bought clothes,Sie hat Kleidung gekauft
+#word, , ,iWillEatChocolate.png
+#word, , ,iEatChocolate.png
+#word, , ,iAteChocolate.png
+#word, He will swim,Er wird schwimmen
+#word, He is swimming,Er schwimmt
+#word, He swam,Er ist geschwommen
+#word, ,Ich werde schwimmen ,iWillSwim.png
+#word, ,Ich schwimmen, iSwim.png
+#word, ,Ich bin geschwommen, iSwam.png
+#word,Did you swim?,Bist du geschwommen?
+#word, No I didn't swim. I ran. , Nein. Ich bin nicht geschwommen. Ich bin gerannt.
+#word, Did you buy a book?,Hast du ein Buch gekauft?
+#word, No I didn't buy a book. I bought a newspaper. ,Nein. Ich habe kein Buch gekauft. Ich habe eine Zeitung gekauft.
+#word, Will you read this book?,Wirst du diese Buch lesen?
+#word, Yes I will read it.,Ja. Ich werde es lesen.
+#word, What are you doing?,Was machst du?
+#word, I am reading a book, Ich lese ein Buch
+#word, Did you read this book?,Hast du dieses Buch gelesen?
+#word, Yes I read it, Ja. Ich habe es gelesen
+#word, Today is Tuesday. I am in school.,Heute ist Dienstag. Ich bin in der Schule.
+#word, Tomorrow I will visit grandma, Morgen werde ich meine Großmutter besuchen.
+#word, Yesterday I swam in lake, Gestern bin ich im See geschwommen
+#word, Yesterday I bought meat and vegetables, Gestern habe ich Fleisch und Gemüse gekauft
+#word, Today I am cooking, Heute koche ich
+#word, Yesterday I ran 10K, Gestern bin ich zehn Kilometer gerannt
+#word, ,Heute schwimme ich ,todayISwim.png
+#word, Yesterday she played tennis, Gestern hat sie Tennis gespielt
+#word, Today we are at beach, Heute sind wir am Strand
+#word, Tomorrow they will visit their grandpa, Morgen werden sie ihren Großvater besuchen
+#word, Yesterday I bought a newspaper, Gestern habe ich eine Zeitung gekauft
+#word, Today I am reading the newspaper, Heute lese ich die Zeitung
+#word, , ,yesterdayIBoughtABook.png
+#word, , ,todayIReadBook.png
+#word, Last Monday she bought new shoes, Letzten Montag hat sie neue Schuhe gekauft
+#word, ,Heute rennt Sie, todaySheRun.png
+#word, ,Letzten Mittwoch hat er Fahrkarten gekauft,lastWednesdayHeBoughtTicket.png
+#word, Today he takes train to Paris, Heute fährt er mit dem Zug nach Paris
+#word, Today I am buying a table and a chair, Heute kaufe ich einen Tisch und Stühle
+#word, Last Saturday I bought a house, Letzten Samtag habe ich ein Haus gekauft
+#word, Last Monday she sold her car, Letzten Montag hat sie ihr Auto verkauft
+#word, ,Heute fährt sie mit dem Bus,todaySheTakeBus.png
+#word, Last Tuesday I swam 1000m,Letzten Dienstag bin ich tausend Meter geschwommen
+#word, Last Friday I bought a newspaper, Letzten Freitag habe ich eine Zeitung gekauft
+#word, Last week I read 2 books, Letzte Woche habe ich zwei Bücher gelesen
+#word, Next month we will visit our friends, Nächsten Monat werden wir unsere Freunde besuchen
+#word, ,Nächstes Jahr werde ich sechs Jahre alt,nextYearIam6.png
+#word, Next week we will go to lake, Nächste Woche werde ich zum See fahren
+#word, When do you go to the mountain?, Wann fährst du in die Berge?
+#word, , Ich werde nächste Woche in die Berge fahren,iWillGoToMountainNextWeek.png
+#word, When do you go to Barcelona?, Wann fahren Sie nach Barcelona?
+#word, We will go to Barcelona next week, Wir werden nächste Woche nach Barcelona fahren.
+#word, Did you eat your carots, Hast du deine Karotten gegessen?
+#word, ,Ja. Ich habe meine Karotten gegessen,yesIAteMyCarots.png
+#word, Did you play soccer yesterday, Hast du gestern Fußball gespielt?
+#word, No I will play soccer next week, Nein. Ich werde nächste Woche Fußball spielen.
+#word, Did you eat in this restaurant last week?, Hast du letzte Woche in diesem Restaurant gegessen?
+#word, No. I will eat in this restaurant next week, Nein. Ich werde nächste Woche in diesem Restaurant essen.
+#word, Will you play tennis next week?, Wirst du nächste Woche Tennis spielen?
+#word, , Nein. Ich habe letzte Woche Tennis gespielt, noIPlayedTennisLastWeek.png
+#word, Last Tuesday I played golf, Letzten Dienstag habe ich Golf gespielt
+#word, Next Tuesday I will visit my grandma, Nächsten Dienstag werde ich meine Großmutter besuchen
+#word, Last Monday I sold my car, Letzten Montag habe ich mein Auto verkauft
+#word, Next Monday I will buy a new car, Nächsten Montag werde ich ein neues Auto kaufen
+#word, You read 3 books, Du hast drei Bücher gelesen
+#word, You bought a dog, Du hast einen Hund gekauft
+#word, You ate 6 sandwiches, Du hast sechs belegte Brote gegessen
+#word, You wrote a book,Du hast ein Buch geschrieben
+#word, You sold 2 cars today, Du hast heute zwei Autos verkauft
+#word, You ran 6K, Du bist sechs Kilometer gerannt
+#word, , ,dictionary.png
+#word, , ,notebook.png
+#word, , ,desk.png
+#word, , ,stamps.png
+#word, , ,envelope.png
+#word, , ,email.png
+#word, , ,stampsLieOnDesk.png
+#word, , ,envelopeLieUnderDesk.png
+#word, , ,notebookLieOnDesk.png
+#word, Do you have a dictionary?, Hast du ein Wörtebuch?
+#word, No but the teacher has a dictionary, Nein. aber der Lehrer hat ein Wörterbuch
+#word, ,Haben Sie ein Wörtebuch,youHaveDictionaryQ.png
+#word, Yes the dictionary is on my desk, Ja. Da Wörtebuch liegt auf meinem Pult
+#word, I am wrting a letter, Ich schreibe einen Brief,
+#word, ,Brauchst du Briefmarken?,youNeedStampsQ.png
+#word, No I bought stamps yesterday, Nein. Ich habe gestern Briefmarken gekauft
+#word, ,Hast du Briefumschläge gekauft?, youHaveEnvelopesQ.png
+#word, Yes I bought envelopes last week, Ja. Ich habe letzte Woche Briefumschläge gekauft
+#word, , ,heWriteHisFriendAnEmail.png
+#word, , ,sheWriteHerParentsALetter.png
+#word, She sells the man a notebook, Sie verkauft dem Mann einen Block
+#word, , ,oldestGirlReadYoungerGirlsABook.png
+#word, I give my teacher an Apple, Ich schenke meiner Lehrerin einen Apfel
+#word, ,Er gibt der Frau Briefe,heGiveWomanLetters.png
+#word, ,Er schenkt seiner Frau eine Halskette,heGiveHerWifeANecklace.png
+#word, ,Das Mädchen gibt ihrem Freund den Block,girlGiveHerFriendNotebook.png
+#word, She is writing her grandpa a letter, Sie schreibt ihrem Großvater einen Brief
+#word, She wrote here grandpa a letter, She hat ihrem Großvater einen Brief geschrieben
+#word, He is giving the student a book, Er gibt der Schülerin ein Buch
+#word, He gave the student a book, Er hat der Schülerin ein Buch gegeben
+#word, I am writing my mother an email, Ich schreibe meiner Mutter eine E-Mail
+#word, I wrote my mother an email, Ich habe meiner Mutter eine E-Mail geschrieben
+#word2, , ,teachGiveStudentADictionary.png, teacherGaveStudentDictionary.png
+#word2, , ,heGiveHerWifeFlowers.png,heGaveHerWifeFlowers.png
+#word, Did you give your sister the bike?, Hast du deiner Schwester das Fahrrad gegeben?
+#word, No I gave the bike to my brother, Nein. Ich habe das Fahrrad meinem Bruder gegessen
+#word, Did you give your teacher the apple?, Hast du deinem Lehrer den Apfel geschenkt
+#word, , Nein. Ich habe den Apfel gegessen, noIAteApple.png
+#word, Did you read the newspaper this morning?, Haben Sie heute Morgen die Zeitung gelesen?
+#word, No I gave the newspaper to my husband, Nein. Ich habe die Zeitung meinem Mann gegeben
+#word, ,Ich gebe meinem Bruder einen Ball, iGiveMyBrotherBall.png
+#word, ,Ich gebe meiner Schwester einen Ball,iGiveMySisterBall.png
+#word, I gave my sister a pen, Ich habe meiner Schwester einen Stift gegeben
+#word, I gave my brother a pen,Ich habe meinem Bruder einen Stift gegeben
