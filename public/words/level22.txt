@@ -1,0 +1,116 @@
+FileFetchSuccessIdentifier
+#word, , ,science.png
+#word, , ,art.png
+#word, , ,math.png
+#word, , ,iTeachMusic.png
+#word, , ,heTeachMath.png
+#word, She learn history, Sie lernt Geschichte
+#word, , ,music.png
+#word, , ,history.png
+#word, , ,german.png
+#word, What did you guys have yesterday?, Was habt ihr gestern gehabt?
+#word, Yesterday we have music, Gestern haben ich Musik gehabt
+#word, What are you guys having today?, Was habit ihr heute?
+#word, Today we have math, Heute haben wir Mathematik
+#word, What will you guys have tomorrow?,Was werdet ihr morgen haben?
+#word, Tomorrow we will have science, Morgen werden wir Naturwissenschaften haben
+#word, What did you have yesterday, Was hast du gestern gehabt
+#word, Yesterday I had art and history, Gestern habe ich Kunst und Geschichte gehabt
+#word2,Was haben Sie gestern gehabt,Gestern haben wir Naturwissenschaften und Musik gehabt,whatYousHadYesterday.png,yesterdayWeHadMathMusic.png
+#word2, Sie essen, Sie haben gegessen ,theyEat.png,theyAte.png
+#word2, Er isst, Er hat gegessen ,heEat.png,heAte.png
+#word2, , ,theyRun.png, theyRan.png
+#word2, , ,sheRun.png,sheRan.png
+#word, When did you guys play tennis, Wann habt ihr Tennis gespielt?
+#word, We played tennis this morning, Wir haben heute Morgen Tennis gespielt
+#word, Did the kids play soccer today?, Haben die Kinder heute Fußball gespielt?
+#word, No they played soccer yesterday, Nein. Sie haben gestern Fußball gespielt
+#word, We had dinner, Wir haben zu Abend gegessen
+#word, ,Wir haben Golf gespielt,wePlayedGolf.png
+#word, We ran to the park, Wir sind bis zum Park gerannt
+#word, We had breakfast, Wir haben gefrühstückt
+#word, I had breakfast, Ich habe gefrühstückt
+#word, ,Sie haben gefrühstückt,theyHadBreakfast.png
+#word, She had breakfast, Sie hat gefrühstückt
+#word, I ran, Ich bin gerannt
+#word, You ran, Du bist gerannt
+#word, We ran, Wir sind gerannt
+#word, You guys ran, Ihr seid gerannt
+#word, They ran, Sie sind gerannt
+#word, Where is mama going?, Wohin geht Mama?
+#word, She is going to supermarket, Sie geht zum Supermarket
+#word, Where did mama go?, Wohin ist Mama gegangen?
+#word, She went to supermarket,  Sie ist zum Supermarket gegangen
+#word, I am going to the beach, Ich fahre an den Strand
+#word, I went to the beach, Ich bin zum Strand gefahren
+#word, They are going to Paris, Sie fahren nach Paris
+#word, They wen to Paris, Sie sind nach Paris gefahren
+#word2, Wir gehen in die Bücherei, Wir sind in die Bücherei gegangen,weAreGoingToLibrary.png,weWentToLibrary.png
+#word, She went to book store, Sie ist zur Buchhandlung gegangen
+#word, He went to supermarket, Er ist zum Supermarket gegangen
+#word, They went to pharmacy, Sie sind sur Apotheke gegangen
+#word, They went to beach, Sie sind zum Strand gefahren
+#word, What time did you go to work?, Um wie viel Uhr bist du zur Arbeit gegangen?
+#word, I went to work at 9, Ich bin um neun Uhr zur Arbeit gegangen
+#word, What time did you guys go to school?, Um wie viel Uhr seid ihr zur Schule gegangen? 
+#word, ,Wir sind um archt Uhr zur Schule gegangen , weWentToSchoolAt8.png
+#word, Where did you go today?,Wohin bist du heute gegangen?
+#word, I went to park, Ich bin zum Park gegangen
+#word, Where have you guys been last week?, Wo seid ihr letzte Woche gewesen?
+#word, We went to the mountain, Wir sind in die Berge gefahren
+#word, On Thursday I went to bank, Am Donnerstag bin ich zur Bank gegangen
+#word, On Friday I went to library, Am Freitag bin ich zur Bücherei gegangen
+#word, ,Am Samstag sind wir sum See gegangen, onSturdayWeWentToLake.png
+#word, On Friday we went to supermarket, Am Freitag sind wir in den Supermarket gegangen
+#word, ,Der Junge hat ihr eine Torte geschenkt ,boyGaveHerACake.png
+#word, ,Der Junge hat seiner Lehrerin einen Apfel geschenkt, boyGaveTeacherAnApple.png
+#word, The teacher gave him a notebook, Der Lehrer hat ihm einen Block gegeben
+#word, The teacher gave the boy a dictionary, Die Lehrerin hat dem Jungen ein Wörterbuch gegeben
+#word, Doctor gives him some medicine, Der Arzt gibt ihm ein Medikament
+#word, Doctor gave me this medicine, Der Arzt hat mir dieses Medikamente gegeben
+#word, He buys her jewelry, Er kauft ihr Schmuck
+#word, I bought you jewelry, Ich habe dir Schmuck gekauft
+#word, ,Sie kauft ihnen Kaffee,sheBuyThemCoffee.png
+#word, ,Ich habe euch Kaffee gekauft,iBoughtYousCoffee.png
+#word, , ,sheBoughtUsChocolate.png
+#word, Our grandpa gave us a cat, Unser Großvater hat uns eine Katze geschenkt
+#word, , ,theyWroteMeLetters.png
+#word, He sells her a hat, Er verkauft ihr einen Hut
+#word, I wrote him an email, Ich habe ihm eine E-Mail geschrieben
+#word, He reads them a book, Er liest ihnen ein Buch vor
+#word, She bought them fruits, Sie hat ihnen Obst gekauft
+#word, , ,youLearnGermanWithThis.png
+#word, I gave you the key yesterday, Ich habe dir gestern die Schlüssel gegeben
+#word, I bought you flowers today, Ich habe dir heute Blumen gekauft
+#word, , ,weWroteYou.png
+#word, , ,myFatherGiveMeKey.png
+#word, Our parents wrote us letters, Unsere Eltern haben uns Briefe geschrieben
+#word, , ,4Words.png
+#word, , ,3Words.png
+#word, , ,2Words.png
+#word, , ,1Word.png
+#word, , ,thisSignHasNoWord.png
+#word, , ,thisSIgnHas1Word.png
+#word, This sign is blue, Dieses Schild ist blau
+#word, , ,thisSignIsGreen.png
+#word, Excuse me what does this word mean?, Entschuldigen Sie bitte. was bedeutet dieses Wort?
+#word, ,Es bedeutet "Apotheke",itMeanPharmacy.png
+#word, Excuse me what does it mean?, Entschuldigen Sie bitte. was bedeutet das?
+#word, ,Es bedeutet "Bücherei",itMeanLibrary.png
+#word, , Entschuldigen Sie bitte. was bedeutet dieses Schild?, excuseMeWhatThisSignMean.png
+#word, It means "Restaurant", Es bedeutet "Restaurant"
+#word2, , ,whatItMean.png,itMeanStadium.png
+#word2, , ,whatIsAStadium.png,thisIsAStadium.png
+#word, He understand it, Er versteht das
+#word, ,Sie versteht das nicht ,sheNotUnderstandIt.png
+#word, She understand this book, Sie versteht dieses Buch
+#word, ,Ich verstehe dieses Wörter nicht, iCanNotUnderstandTheseWords.png
+#word, I understand this word, Ich verstehe dieses Wort
+#word, ,Sie können dieses Buch nicht verstehen , theyCanNotUnderstandThisBook.png
+#word, I don't understand this sign. What does it mean?, Ich verstehe dieses Schild nicht. Was bedeutet es?
+#word, ,Es bedeutet "Der Flughafen is rechts", itMeanAirportRight.png
+#word, ,Es bedeutet "Hotel",itMeanHotel.png
+#word, ,Es bedeutet "Strand", itMeanBeach.png
+#word, I didn't understand., Ich habe Sie nicht verstanden.
+#word,  Can you repeat?,Können Sie das bitte wiederholen?
+#word2, , ,whatItMean2.png,itMeanToilet.png
