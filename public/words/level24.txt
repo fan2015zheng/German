@@ -1,0 +1,73 @@
+FileFetchSuccessIdentifier
+#word, ,Das habe ich gegessen als ich in Frankreich war,iAteItWhenIWasInFrance.png
+#word, ,Das habe ich gekauft als ich in Russland war, iBoughtItInRussia.png
+#word,I saw it when I was in China,Das habe ich gesehen als ich in China war
+#word2,Als wir am Strand waren; war es wolkig, Als wir am Strand waren; war es sonnig,whenWeAreAtBeachCloudy.png,whenWeAreAtBeachSunny.png
+#word, When I was boy; I played Tennis,Als ich ein Junge war; habe ich Tennis gespielt
+#word, When I was a girl; I played soccer, Als ich ein Mädchen war; habe ich Fußball gespielt
+#word, ,Als wir im Park waren; hat sie mich geküsst, whenWeWereInParkYouKissedMe.png
+#word, ,Als ich Kaffee getrunken habe; habe ich diesen Brief geschrieben,whenIDrinkedCoffeeIWroteThisLetter.png
+#word, When he was in hardware store; he bought a ladder, Als er im Baumarkt war; hat er eine Leiter gekauft
+#word, When he slept; the plane took off, Als er geschlafen hat; ist das Flugzeug abgeflogen
+#word, When I was in train station; I listened to radios, Als ich im Bahnhof war; habe ich Radio gehört
+#word, ,Als ich im Bahnhof war; habe ich ein belegtes Brot gegessen, whenIWasInTrainStationIAteASandwich.png
+#word, ,Als ich im Flughafen war; habe ich Zeitung gelesen, whenIwasInAirportIReadNewspaper.png
+#word, ,Als ich im Flughafen war; habe ich ein belegtes Brot gegessen, whenIWasInAirportIAteASandwich.png
+#word, I use to work in a hospital, Früher habe ich in einem Krankenhaus gearbeitet
+#word, Now I work in a university, Jetzt arbeite ich an einer Unversität
+#word, I use to have a bike. Now I have a car, Früher hatte ich ein Fahrrad. Jetzt habe ich ein Auto
+#word, I use to have a dog. Now I have a cat, Früher hatte ich einen Hund. Jetzt habe ich eine Katze
+#word, When you were in pharmacy; you bought medicine, Als sie in der Apotheke war; hat sie Medikamente gekauft
+#word, ,Als ich in der Buchhandlung war; habe ich ein Wörterbuch gekauft, whenIWasInBookStoreEtc.png
+#word, ,Als ich im Supermarkt war; habe ich Äpfel gekauft, whenIWasInSupermarketEtc.png
+#word,She wrote a letter when she was on the train, Sie hat einen Brief geschrieben; als sie im Zug war
+#word, ,Das haben wir gegessen; als wir in Peking waren,weAteItWhenInBeijing.png
+#word,They bought it when they were in Paris, Das haben sie gekauft als sie in Paris waren
+#word,My mother read me this book when I was a child, Meine Mutter hat mir dieses Buck vorgelesen als ich ein Kind war
+#word, ,Ich habe dir das gekauft als du ein Baby warst,iBoughtYouItWhenYouWereABaby.png
+#word,My daughter wrote me these letters when she studies in Germany, Meine Tochter hat mir diese Briefe geschrieben als sie in Deutschland studierte
+#word,When did you buy the carrots?,Wann hast du die Karotten gekauft?
+#word, ,Ich habe die Karotten gekauft als ich im Supermarkt war,iBoughtCarrotWhenIWasInSupermarket.png
+#word,When did you buy the apples?, Wann hast du die Äpfel gekauft?
+#word,I bought the apples when I was in supermarket, Ich habe die Äpfel gekauft als ich im Supermarkt war
+#word,Did your husband give it to you?, Hat Ihr Mann Ihnen das geschenkt?
+#word,No. I bought it, Nein. Ich habe es gekauft
+#word2,Wann haben Sie es gekauft, Ich habe es gekauft als ich in den USA gewohnt habe, whenYouBoughtIt.png,iBoughtItInUSA.png
+#word2,Hast du das geschrieben? ,Ja das habe ich geschrieben , didYouWriteIt.png,yesIWroteIt.png
+#word2,Wann hast du es geschrieben?, Ich habe es geschrieben als ich in Russland gearbietet habe,whenYouWroteIt.png, iWroteInRussia.png
+#word,Who is it?, Wer ist das?
+#word, ,Das ist mein Mann , itIsMyHusband.png
+#word,when were you in China?, Wann wart ihr in China?
+#word, ,Wir waren in China als wir Studenten waren, weWereInChinaWhenWeWereStudents.png
+#word, My grandma gave it to me when I was 10, Meine Großmutter hat mir das geschenkt als ich zehn jahre alt war
+#word2,Magst du ihn? , Ja. Ich mag ihn , doYouLikeHim.png, yesILikeHim.png
+#word, I will give it to you, Ich werde ihn dir schenken
+#word2,Möchten Sie gern etwas Kaffee?, Ja bitte, wouldYouLikeCoffee.png, yesLittle.png
+#word2,Möchten Sie gern etwas Wasser, Ja. Ich möchten gern etwas Wasser, wouldYouLikeWater.png, yesIWouldLikeWater.png
+#word, ,Möchten Sie etwas zum Schreiben , youWantWriteSome.png
+#word2, Möchten Sie mit mir Tennis spielen?,Nein. ich möchten gern Golf spielen, youWantPlayTennisWithMeQ.png,noIWouldLikePlayGolf.png
+#word, ,Möchten Sie gern etwas Schokolade? ,wouldYouLikeChocolate.png
+#word, ,Möchten Sie gern etwas Torte?, wouldYouLikeSomeCake.png
+#word, ,Möchten Sie gern etwas Tee?, wouldYouLikeTea.png
+#word, black or red?, Schwarz oder rot?
+#word, , Apfel oder Orange?, appleOrOrange.png
+#word, , Links oder rechts?, leftOrRight.png
+#word, ,Möchten Sie gern das Buch oder die Zeitung, wouldYouLikeBookOrNewspaper.png
+#word, ,Möchten Sie gern Wasser oder Saft, wouldYouLikeWaterOrJuice.png
+#word, ,Möchten Sie gern Torte oder Schokolade?, wouldYouLikeCakeOrChocolate.png
+#word, ,Möchten Sie gern Kaffee oder Tee?, wouldYouLikeCoffeeOrTea.png
+#word, Möchten Sie gern Tennis oder Golf spielen, Ich möchte gern Golf spielen, wouldYouLikePlayTennisOrGolf.png , iWouldLikePlayGolf.png
+#word, Would you like to go moutains or the beach?, Möchten Sie gern in die Berge oder an den Strand fahren?
+#word, I would like to go to the beach, Ich möchte gern an den Strand fahren
+#word2, Möchten Sie gern Schokolade oder Obst, Ich möchte gern das Obst , wouldYouLikeChocolateOrFruit.png, iWouldLikeFruit.png
+#word2, Möchten Sie gern Milch oder Orangensaft?, Ich habe Sie nicht verstanden. Können Sie das bitte wiederholen , wouldYouLikeMilkOrOrangeJuice.png,iDidntUnderStand.png
+#word, , Was bedeutet "Orangensaft"?,whatOrangeJuiceMean.png
+#word2, Möchten Sie gern in bar oder mit Kreditkarte bezahlen?, Ich möchte gern mit einer Kreditkarte bezahlen, wouldYouLikePayCashOrWithCreditCard.png, iWouldLikePayWithCreditCard.png
+#word, Did you learn English?, Hast du Englisch gelernt?
+#word, Yes I learnt English, Ja. Ich habe Englisch gelernt
+#word, What does this word mean?, Was bedeutet dieses Wort?
+#word, Did you study art in university?, Hast du Kunst an der Unversität studiert?
+#word, Yes I studied art in a university in German, Ja. Ich habe Kunst an der Unversität in Deutschland studiert
+#word, Do you speak German?, Sprechen Sie Deutsch?
+#word, Yes I speak German, Ja Ich spreche Deutsch.
+
