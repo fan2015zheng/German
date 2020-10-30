@@ -62,50 +62,57 @@ FileFetchSuccessIdentifier
 #word2,Er möchte ein Spielzeug. Bitte gib ihm ein Spielzeug?, Sie gibt ihm ein Spielzeug, hewantAToyEtc.png,sheGiveHimAToy.png
 #word, I would like a bike. Please give me a bike.,Ich möchte gern ein Fahrrad. Bitte schenkt mir ein Fahrrad.
 #word, He give him a bike, Er schenkt ihm ein Fahrrad
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
-#word, , ,
+#word, Please bring her something to drink, Bitte bringen Sie ihr etwas zu trinken
+#word, ,Er bringt ihr etwas zu trinken ,heBringHerSthDrink.png
+#word, Please give him the watch, Bitte schenken Sie ihm die Uhr
+#word, ,Sie schenkt ihm die Uhr, sheGiveHimWatch.png
+#word, ,Die Leute tanzen auf dieser Feier,peopleDanceOnCelebration.png
+#word, ,Kinder spielen gern Spiele auf Feiern, childrenPlayGames.png
+#word, ,Sie bringt eine Torte mit zur Feier, sheBringACake.png
+#word, ,Die Leute singen auf dieser Feier, peopleSing.png
+#word, ,Der Arbeitstag ist vorbei,workDayOver.png
+#word, ,Der Frühling beginnt, springBegin.png
+#word, Party is over, Die Feier ist vorbei
+#word, Concert begins, Das Konzert beginnt
+#word2, Das Spiel beginnt, Das Spiel ist vorbei, gameBegin.png,gameOver.png
+#word2, Das Theaterstück beginnt, Das Theaterstück ist vorbei , playBegin.png,playOver.png
+#word2, Der Film beginnt, Der Film ist vorbei, filmBegin.png,filmOver.png
+#word, ,Sie verlassen die Feier,theyLeaveParty.png
+#word, He leaves office, Er verlässt das Büro
+#word, ,Sie kommt zum Golfspielen,sheComeToGolf.png
+#word, They come to the concert, Sie kommen zum Konzert
+#word, They arrive at the hospital, Sie kommen im Krankenhaus an
+#word, They leave the hospital, Sie verlassen das Krankenhaus
+#word, ,Er kommt am Flughafen an, heArriveAtAirport.png
+#word, He leavs the airport, Er verlässt den Flughafen
+#word, ,Sie kommen vom Strand,theyComeFromBeach.png
+#word, ,Sie kommen von einer Buchhandlung, theyComeFromBookStore.png
+#word, He goes to post office, Er geht zur post
+#word, ,Sie geht zu einer Feier, sheGoToAParty.png
+#word, Do you come to work today?, Kommen Sie heute zur Arbeit?
+#word, No; I don't come to work today, Nein; ich komme heute nicht zur Arbeit
+#word, Do you come to my party this evening?, Kommst du heute Abend zu meiner Feier?
+#word, Yes; I come to your party today, Ja; ich komme heute Abend zu deiner Feier
+#word2,Kann Susanne nächsten Freitag zu meiner Feier kommen?, Ja; das kann sie, canSusanneCome.png,yesSheCan.png
+#word2,Wann beginnt sie?, Sie beginnt um zwanzig Uhr, whenItBegin.png, itBeginAt20.png
+#word2,Wann ist sie vorbei?, Sie ist um dreiundzwanzig Uhr dreißig vorbei, whenItOver.png,itOverAt23-30.png
+#word2, Kann ich bitte etwas zu triken haben, Ja; hier ist Tee ,canIHaveSthDrink.png,yesHereIsTea.png
+#word, Can I have something to eat?, Kann ich bitte etwas zu essen haben?
+#word, ,Ja; hier ist Kuchen, yesHereIsCake.png
+#word, ,April ist der viete Monat im Jahr, april.png
+#word, ,In Japan beginnt der Frühling im März, march.png
+#word, ,In Brasilien regnet es im Februar, february.png
+#word, ,Das Jahr beginnt im Januar, january.png
+#word, ,August ist der achte Monat im Jahr, august.png
+#word, ,In Australien beginnt der Winter im Juni, june.png
+#word, ,Im Mai ist es in Peking sonnig,may.png
+#word, ,Im Juli kochen Familien aus den USA draußen,july.png
+#word, ,Oktober ist der zehnte Monat im Jahr, october.png
+#word, ,In Italien ist es im Dezember kalt, december.png
+#word, ,In Russland ist es im November kalt, november.png
+#word, ,In Frankreich beginnt die Schule im September, september.png
+#word, When will you guys go to the beach?, Wann werdet ihr zum Strand gehen?
+#word, We will go in February, Wir werden im Februar gehen
+#word, When will you guys go to the mountains?, Wann werdet ihr in die Berge fahren?
+#word, ,Wir werden im August fahren,weWillGoInAugust.png
+#youtube, gehen fahren,NdkIZmOIneM
