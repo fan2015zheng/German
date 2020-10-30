@@ -1,0 +1,112 @@
+FileFetchSuccessIdentifier
+#word2, Sie ist in China, Sie war in China, sheIsInChina.png,sheWasInChina.png
+#word2, Ich bin in Ägypten, Ich war in Ägypten, iAmInEgypt.png,iWasInEgypt.png
+#word, I was a student, Ich war eine Schülerin
+#word, Now I am a teacher, Jetzt bin ich Lehrerin
+#word, He was a child, Er war ein Kind
+#word, Now he is a father, Jetzt ist er ein Vater
+#word2, Wir sind in Paris, Wir waren in Paris, weAreInParis.png, weWereInParis.png
+#word, They are at beach, Sie sind am Strand
+#word, They were at beach, Sie waren am Strand
+#word2,Wir waren jung, Jetzt sind wir alt,weWereYoung.png,nowWeAreOld.png
+#word, I was a child, Ich war ein Kind
+#word, Now I am an adult, Jetzt bin ich erwachsen
+#word2, Du warst ein Baby, Jetzt bist du ein Junge, youWereABaby.png, nowYouAreABoy.png
+#word, You were young, Ihr wart jung
+#word, Now you are old, Jetzt seid ihr alt
+#word, Sie sind schmutzig, Sie waren schmutzig, theyAreDirty.png, theyWereDirty.png
+#word, They are green, Sie sind grün
+#word, They were green, Sie waren grün
+#word, Die Socken sind weiß, Die Socken waren weiß,socksAreWhite.png,socksWereWhite.png
+#word, Her hair is blond, Ihre Haare sind blond
+#word, Her hair was blond, Ihre Haare waren blond
+#word, We used to live in an apartment, Früher haben wir in einer Wohnung gewohnt
+#word, Now we live in a house, Jetzt wohnen wir in einem Haus
+#word2,Früher hatte ich ein Fahrrad, Jetzt habe ich ein Auto,iHadABike.png,nowIHaveACar.png
+#word, I used to write letters, Früher hat sie Briefe geschrieben
+#word, Now she write emails, Jetzt schreibt sie E-Mails
+#word, Did you use to live with your friends?, Hast du früher bei deinen Freunden gewohnt?
+#word, Yes but now I live with my wife, Ja aber jetzt wohne ich mit meiner Frau zusammen
+#word2, Hattet ihr früher einen Hund?, Ja aber jetzt haben wir eine Katze,youHadADogQ.png,yesButNowWeHaveACat.png
+#word, She used to work in a bakery, Früher hat sie in einer Bächerei gearbeitet
+#word, Now she works in a restaurant, Jetzt arbeitet sie in einem restaurant
+#word, He used to wear t-shirts, Früher hat er T-Shirts getragen
+#word, Now he wears suits,Jetzt trägt er Anzüge
+#word2,Früher haben sie Fußball gespielt,Jetzt spielen sie Golf,theyPlayedFootball.png,nowTheyPlayGolf.png
+#word, Did you go to the mountains before? Bist du früher in die Berge gefahren?
+#word, Yes but now I prefer to to go to the park, Ja aber jetzt gehe ich lieber in den Park
+#word, Hast du früher Tennis gespielt?, Ja aber jetzt schwimme ich lieber,youPlayedTennisBeforeQ.png,yesButNowIPreferSwim.png
+#word, Did you teach art?, Hast du früher Kunst unterrichtet
+#word, No I did not teach art before, Nein. Ich habe früher nicht Kunst unterrichtet
+#word, I taught music, Ich habe Musik unterrichtet
+#word, I lived in Rome before, Ich habe früher in Rom gewohnt
+#word, I lived in Rome as I was a child, Ich habe in Rom gewohnt als ich ein Kind war
+#word, Before you lived in Paris, Früher habt ihr in Paris gewohnt
+#word, You had bikes when you lived in Paris, Ihr hattet Fahrräder als ihr in Paris gewohnt habt
+#word, We waited for the bus, Wir haben auf den Bus gewartet
+#word, It rained when we waited for the bus, Es hat geregnet als wir auf den Bus gewartet haben
+#word, Did you teach English when you were in China, Haben Sie Englisch unterrichtet als Sie in China waren
+#word, ,Ja. Ich habe Englisch unterrichtet,yesITaughtEnglish.png
+#word, Did you play soccer as a child?, Hast du als Kind Fußball gespielt?
+#word, ,Ja. Ich habe Fußball gespielt,yesIPlayedFootball.png
+#word, Did your mother read to you when you were a chid?, Hat deine Mutter dir das vorgelesen als du ein Kind warst?
+#word, ,Ja. Jetzt lese ich das meiner Tocheter vor, yesNowIReadToMyDaughter.png
+#word, ,die Universität, university.png
+#word, ,das Gymnasium, highSchool.png
+#word, ,die Grundschule,gradSchool.png
+#word, ,Sie hat Kunst gehabt als sie in der Grundschule war,sheHadArtAsSheInGradeSchool.png
+#word, She did science when she was in highschool, Sie hat Naturwissenschaften gehabt als sie im Gymnasium war
+#word, Now she studies math in the university, Jetzt studiert sie Mathematik an der Universität
+#word, We went to the same gradeschool, Wir waren Schülerinnen an der gleichen Grundschule
+#word, ,Jetzt sind wir Studentinnen an der gleichen Universität,weAreInSameUniversity.png
+#word, They went to the same highschool, Sie waren Schüler am gleichen Gymnasium
+#word, ,Jetzt sind sie Studenten an der gleichen Universität,nowTheyAreStudentsInSameUniversity.png
+#word, Are your children gradeschoolers?, Sind Ihre Kinder Grundschüler?
+#word, No. My daughter is a college student and my son is a highschooler, Nein. Mein Tochter ist Sudentin und mein Sohn ist ein Gymnasiast
+#word, What does your daughter study in the university?, Was studiert Ihre Tochter an der Universität?
+#word, ,Sie studiert Kunst,sheStudyArt.png
+#word, What does your son want to study in university?, Was möchte Ihr Sohn an der Universität studieren?
+#word, ,Er möchte Naturwissenschaften studieren,heWantStudyScience.png
+#word, This gradeschooler likes science, Diese Grundschülerin mag Naturwissenschaften
+#word, This college student likes music, Dieser Student mag Musik
+#word, This highschooler likes history, Dieser Gymnasiast mag Geschichte
+#word, ,das Büro,office.png
+#word, ,die Fabrik,factory.png
+#word, ,das Geschäft,store.png
+#word, ,Sie ist Verkäuferin in einem Geschäft,sheIsSalesInAStore.png
+#word, I am a manager in an office, Ich bin Managerin in einem Büro
+#word, ,Sie sind Angestellte in einem Büro, theyAreEmployeesInOffice.png
+#word, He is a manager in a store, Er ist Manager in einem Geschäft
+#word, ,Dieser Mann arbeitet als Manager in diesem Geschäft,thisManWorkAsManagerInThisStore.png
+#word, This woman work as manager in this office, Diese Frau arbeitet als Managerin in diesem Büro
+#word, ,Der Mann arbeitet als Manager in dieser Fabrik, manWorkAsManagerInFactory.png
+#word, an employee , ein Angestellter
+#word, , ein Geschäft,aStore.png
+#word, ,eine Fabrik ,aFactory.png
+#word, a manager, eine Managerin
+#word, an office, ein Büro
+#word, ,Ich bin Grundschüler, iAmGradeSchooler.png
+#word, I am an employee in an office, Ich bin Angestellter in einem Büro
+#word, I am a student in a university, Ich bin Student an einer Universität
+#word, I am a manager in a factory, Ich bin Manager in einer Fabrik
+#word, Where do you work, Wo arbeiten Sie?
+#word, Before I work in a store, Früher habe ich in einem Geschäft gearbeitet
+#word, Now I work in a grade school, Jetzt arbeite ich in einer Grundschule
+#word, Before you were an employee, Früher waren Sie Angestellter
+#word, Now you are a manager, Jetzt sind Sie Manager
+#word, Before she was a teacher, Früher was sie Lehrerin
+#word, Now she is a manager, Jetzt ist sie Managerin
+#word2, Früher war er Gymnasiast, Jetzt ist er Student, heWasHighSchooler.png,nowHeIsCollegeStudent.png
+#word, Are you a college student?, Sind Sie Studentin?
+#word, Yes I am a college student, Ja. Ich bin Studentin
+#word, What do you study?, Was studieren Sie?
+#word, I studty science, Ich studiere Naturwissenschaften
+#word, My father works as a scientist in Italy, Mein Vater hat als Naturwissenschaftler in ITalien gearbeitet
+#word, Do you come from Italy?, Kommen Sie aus Italien?
+#word, No I come from France, Nein. Ich komme aus Frankreich
+#word, My family used to live in Italy, Meine Familie hat früher in Italien gewohnt
+#word, ,Was machen Sie?,whatYouDo.png
+#word, ,Früher was ich Lehrer aber jetzt arbeite ich nicht, iWasATeacherEtc.png
+#word, ,Was haben Sie unterrichtet,whatYouTaught.png
+#word, In Braziel I taught English, In Brasilien habe ich Englisch unterrichtet
+#word, In Egypt I taught history, In Ägypten habe ich Geschichte unterrichtet
