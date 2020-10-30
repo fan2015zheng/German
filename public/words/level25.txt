@@ -1,0 +1,111 @@
+FileFetchSuccessIdentifier
+#word, ,Die Kinder singen, childrenSing.png
+#word, ,Das Mädchen tanzt, girlDance.png
+#word, ,Die Erwachsenen tanzen, adultsDance.png
+#word, ,Der Mann singt, manSing.png
+#word, ,Die Frauen singen, womenSing.png
+#word, ,Die Jungen tanzen, boysDance.png
+#word, ,Die Frauen tanzen, womenDance.png
+#word, ,Er trinkt etwas, heDrinkSth.png
+#word, ,Sie kocht etwas, sheCookSth.png
+#word, He gives her someting, Er schenkt ihr etwas
+#word, ,Sie liest etwas, sheReadSth.png
+#word, ,Sie möchten etwas zu trinken,theyWantDrinkSth.png
+#word, ,Sie möchte etwas zu essen, sheWantSthToEat.png
+#word, He wants to read somthing, Er möchte etwas zu lesen
+#word, ,Er daft nicht links abbiegen,heMayNotTurnLeft.png
+#word, Schoolers are allowed to play,Die schüler dürfen spielen
+#youtube,dürfen,YH0pIACOhmw
+#word, ,Sie dürfen nach links; rechts oder geradeaus fahren,leftRightStraight.png
+#word, ,Der Hund darf nicht mit dem Zug fahren,dogNotAllowedOnTrain.png
+#word, ,Sie dürfen jetzt gehen, theyNowMayGo.png
+#word, ,Sie dürfen jetzt nicht gehen, redLight.png
+#word, She is allowed to swim in this lake, Sie darf in diesem See schwimmen
+#word, ,Sie darf in diesem See nicht schwimmen,sheMayNotSwimInThisLake.png
+#word2,Bitte singen Sie, , pleaseSing1.png,pleaseSing2.png
+#word2,Bitte biegen Sie links ab, ,pleaseTurnLeft1.png,pleaseTurnLeft2.png
+#word, Please sit down, Bitte setzen Sie sich
+#word2,Bitte schreiben Sie Ihren Namen , ,pleaseWriteYourName1.png, pleaseWriteYourName2.png
+#word, Please read us something from your book, Bitte lesen Sie uns etwas aus Ihrem Buch vor
+#word, Please drink it, Bitte trinken Sie das
+#word, ,Er stellt das Glas auf den Tisch, hePutGlassOnTable.png
+#word, ,Die Mädchen stellen die Spielsachen auf den Tisch, girlsPutToysOnTable.png
+#word, ,Die Männer legen die Zeitungen auf den Tisch, menLieNewspaperOnTable.png
+#word, ,Sie legt den Stift auf den Tisch, sheLiePenOnTable.png
+#word, ,Ich stelle einen Teller ins Spülbecken, iPutAPlateInSink.png
+#word, ,Wir legen die Decken aufs Bett,wePutBlanketsOnBed.png
+#word, ,Sie legen Handtücher auf den Stuhl, theyPutTowelsOnChair.png
+#word, ,Die Studentin legt ihren Block auf das Pult,studentLieNotebookOnDesk.png
+#word, Where did you put the keys?, Wohin hast du die Schlüssel gelegt?
+#word, ,Ich habe sie auf den Tisch gelegt, iPutThemOnTable.png
+#word, Where did you put the book?, Wohin hast du das Buch gelegt?
+#word, ,Ich habe es auf den Stuhl gelegt,iPutItOnChair.png
+#word, ,Der Hund bringt dem Mann eine Zeitung, dogBringManANewspaper.png
+#word, ,Ich bringe dir Kaffee, iBringYouCoffee.png
+#word, ,Die Mädchen bringen ihren Eltern Frühstück, girlsBringParentsBreakfast.png
+#word, She brings him a towel, Sie bringt ihm ein Handtuch
+#word, I bring fish from store to home, Ich bringe Fische vom Geschäft mit nach Hause
+#word, She bring a ball to the park, Sie bringt einen Ball mit zum park
+#word, We bring books from library to home, Wir bringen Bücher von der Bücherei mit nach Hause
+#word, ,Sie bringen Wasser mit in den Park,theyBringWaterInPark.png
+#word2 ,Bitte legen Sie Ihren Mantel auf das Bett, ,pleaseLieCoatOnBed.png,pleaseLieCoatOnBed2.png
+#word, Please bring 8 plates from the kitchen, Bitte bringen Sie acht Teller aus der Küche
+#word, Please put the books on the desks, Bitte legen Sie die Bücher auf die Pulte
+#word2, Bitte brigen Sie eine Leiter, ,pleaseBringALadder1.png,pleaseBringALadder2.png
+#word, Please give him a pen, Bitte geben Sie ihm einen Stift
+#word, ,Sie gibt ihm einen Stift,sheGiveHimAPen.png
+#word, Please give me an umbrella, Bitte geben Sie mir einen Regenschirm
+#word, ,Er gibt ihr einen Regenschirm, heGiveHerAuUmbrella.png
+#word, ,Die Frau schenkt ihrer Freundin Blumen,womanGiveHerFriendFlower.png
+#word, ,Die Eltern schenken ihrem Sohn ein Fahrrad,parentsGiveTheirSonABike.png
+#word, ,Er schenkt den Kindern Spielsachen, heGiveChildToy.png
+#word2,Er möchte ein Spielzeug. Bitte gib ihm ein Spielzeug?, Sie gibt ihm ein Spielzeug, hewantAToyEtc.png,sheGiveHimAToy.png
+#word, I would like a bike. Please give me a bike.,Ich möchte gern ein Fahrrad. Bitte schenkt mir ein Fahrrad.
+#word, He give him a bike, Er schenkt ihm ein Fahrrad
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
+#word, , ,
