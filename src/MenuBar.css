@@ -39,7 +39,7 @@
 }
 
 ._levelInput {
-  width: 50px;
+  width: 33px;
   border-style: none;
   outline: none;
   height: 50px;
@@ -47,4 +47,8 @@
 }
 ._levelPrompt {
   padding-top: 12px;
+}
+._totalLevels {
+  padding-top: 13px;
+  color: #aaa;
 }

@@ -13,6 +13,7 @@ export default function MenuBar({level, setLevel}) {
         <input value={level} className="_levelInput"
           onChange={(e)=>{setLevel(e.target.value)}}/>
       </div>
+      <div className="_totalLevels">/ 25</div>
     </div>
   }
   return(<>
